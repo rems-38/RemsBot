@@ -1,4 +1,4 @@
-const { MessageEmbed } = require('discord.js');
+const { MessageActionRow, MessageButton } = require('discord.js');
 const config = require('../../json/config.json');
 const fs = require('fs');
 var logger = fs.createWriteStream('./logs.txt', {flags : 'a'})
@@ -52,7 +52,6 @@ module.exports.run = (client, cmd, args) => {
         if(args[1] == 'start'){
             // channel.updateOverwrite(member_role, {
             //     VIEW_CHANNEL: true,
-            //     SEND_MESSAGES: false
             // });
 
             // Gestion du temps
@@ -72,12 +71,14 @@ module.exports.run = (client, cmd, args) => {
             }
             else timeLeft = [0, 0, 0, 0];
 
-            months = ["Janvier", "Février", "Mars", "Avril", "Mai", "Juin", "Juillet", "Août", "Septembre", "Octobre", "Novembre", "Décembre"];;
+            const months = ["Janvier", "Février", "Mars", "Avril", "Mai", "Juin", "Juillet", "Août", "Septembre", "Octobre", "Novembre", "Décembre"];;
 
+            var beatmakerID = [];
+            
             const PotMEmbed = {
                 color: "#FFFFFF",
                 title: 'Event Prod Of The Month',
-                description: `Et c'est parti, on lance notre event mensuel Prod Of The Month pour ce mois de ${months[date.getMonth()]}!`,
+                description: `Et c'est parti, on lance notre event mensuel Prod Of The Month pour ce mois de ${months[new Date.getMonth()]}!\nToutes les infos sont sur le flyer présent ci-dessous.\nLe fonctionnement `,
                 // image: {
                 //     url: cmd.attachments.first().url,
                 // },
@@ -91,7 +92,7 @@ module.exports.run = (client, cmd, args) => {
                         value: `${timeLeft[0]}d ${timeLeft[1]}h ${timeLeft[2]}m ${timeLeft[3]}s`,
                     },
                     {
-                        name: 'Participants (0) :',
+                        name:  'Participants (0) :',
                         value: 'Aucun participant à afficher',
                     }
                 ],
@@ -101,17 +102,94 @@ module.exports.run = (client, cmd, args) => {
                 },
             };
 
-            // const buttonUnderEmbed = new MessageButton()
-            // .setCustomId('primary')
-            // .setLabel('Test')
-            // .setStyle('PRIMARY');
+            const buttonUnderEmbed = new MessageActionRow().addComponents(
+                new MessageButton()
+                .setCustomId('post_prod')
+                .setLabel('Déposer ma prod')
+                .setStyle('PRIMARY'),
+            );
 
-            // channel.send(new MessageEmbed(PotMEmbed));
-            // channel.send({ embeds: MessageEmbed(PotMEmbed), components: [buttonUnderEmbed] });
-            channel.send({ embeds: [PotMEmbed] });
+            channel.send({ embeds: [PotMEmbed], components: [buttonUnderEmbed] }).then(msg => {
+                interval = setInterval(() => {
+                    if(timeLeft[3] > 0) {
+                        timeLeft[3] -= second;
+                    }
+                    else if(timeLeft[3] == 0) {
+                        if(timeLeft[2] > 0) {
+                            timeLeft[2] -= 1;
+                            timeLeft[3] = 60 - second;
+                        }
+                        else if(timeLeft[2] == 0) {
+                            if(timeLeft[1] > 0) {
+                                timeLeft[1] -= 1;
+                                timeLeft[2] = 59;
+                                timeLeft[3] = 60 - second;
+                            }
+                            else if(timeLeft[1] == 0) {
+                                if(timeLeft[0] > 0) {
+                                    timeLeft[0] -= 1;
+                                    timeLeft[1] = 23;
+                                    timeLeft[2] = 59;
+                                    timeLeft[3] = 60 - second;
+                                }
+                                else if(timeLeft[0] == 0) {
+                                    channel.send('Le temps est écoulé !');
+                                    clearInterval(interval);
+                                }
+                            }
+                        }
+                    }
 
-            logger.write(`[${date.toLocaleDateString()} ${date.toTimeString().split(' ')[0]}] Event PotM : Start par @${cmd.author.tag}\n`);
-            console.log(`[${date.toLocaleDateString()} ${date.toTimeString().split(' ')[0]}] Event PotM : Start par @${cmd.author.tag}`);
+                    var len = 0;
+                    beatmakerID.forEach(beatmaker => {len += 1});
+
+                    PotMEmbed.fields[1].value = `${timeLeft[0]}d ${timeLeft[1]}h ${timeLeft[2]}m ${timeLeft[3]}s`;
+                    PotMEmbed.fields[2].name = `Participants (${len}) :`;
+                    if(len == 0) PotMEmbed.fields[2].value = 'Aucun participant à afficher'
+                    else PotMEmbed.fields[2].value = beatmakerID.join(' ');
+
+                    msg.edit({ embeds: [PotMEmbed] });
+                }, 1000 * second);
+            });
+
+            client.on('interactionCreate', interaction => {
+                if(interaction.isButton()) {
+                    if(interaction.customId == "post_prod") {
+                        const channel = guild.channels.cache.find(ch => ch.id == interaction.channelId);
+                        const member = guild.members.cache.find(mb => mb.id == interaction.user.id);
+
+                        interaction.reply(`<@${member.id}>, veuillez déposer votre prod`);
+
+                        channel.permissionOverwrites.edit(member, {
+                            SEND_MESSAGES: true,
+                            ATTACH_FILES: true,
+                        });
+
+                        client.on('messageCreate', msg => {
+                            if((msg.author.id == member.id) && (msg.channel.id == channel.id) && msg.attachments) {
+                                if(msg.attachments.toJSON()[0].contentType.indexOf('audio') != -1) {
+                                    const prodUrl = msg.attachments.toJSON()[0].url;
+                                    
+                                    const prods_channel = guild.channels.cache.find(ch => ch.id == config.prods_potm_channel_id);
+                                    prods_channel.send({ content: `Voici la prod de <@${member.id}>`, files: [prodUrl] });
+
+                                    channel.permissionOverwrites.edit(member, {
+                                        SEND_MESSAGES: false,
+                                        ATTACH_FILES: false,
+                                    });
+
+                                    beatmakerID.push(`<@${member.id}>`);
+                                    channel.bulkDelete(1, true);
+                                    interaction.deleteReply();
+                                }
+                            }
+                        });
+                    }
+                };
+            })
+
+            // logger.write(`[${date.toLocaleDateString()} ${date.toTimeString().split(' ')[0]}] Event PotM : Start par @${cmd.author.tag}\n`);
+            // console.log(`[${date.toLocaleDateString()} ${date.toTimeString().split(' ')[0]}] Event PotM : Start par @${cmd.author.tag}`);
 
         }
         // else if(args[1] == "next") {
@@ -172,8 +250,8 @@ module.exports.run = (client, cmd, args) => {
 
             // TODO : à chaque fois qu'on reçoit un mail, on prend le nom du beatmaker, on trouve son ID et on modifie l'embedMessage
 
-            // var beatmakerName = [];
-            // var beatmakerID = [];
+            var beatmakerName = [];
+            var beatmakerID = [];
 
             // beatmakerName.forEach(beatmaker => {
             //     beatmakerID.push(guild.members.cache.find(user => user.displayName == beatmaker))
@@ -234,7 +312,12 @@ module.exports.run = (client, cmd, args) => {
                         }
                     }
 
-                    newEmbed = BeatBattleEmbed.fields[0].value = `${timeLeft[0]}d ${timeLeft[1]}h ${timeLeft[2]}m ${timeLeft[3]}s`;
+                    len = 0;
+                    beatmakerName.forEach(beatmaker => {len += 1});
+
+                    BeatBattleEmbed.fields[0].value = `${timeLeft[0]}d ${timeLeft[1]}h ${timeLeft[2]}m ${timeLeft[3]}s`;
+                    BeatBattleEmbed.fields[1].name = `Participants (${len}) :`;
+
                     msg.edit({ embeds: [BeatBattleEmbed] });
                 }, 1000 * second);
             });
