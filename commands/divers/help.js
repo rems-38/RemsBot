@@ -1,4 +1,4 @@
-const Discord = require('discord.js');
+const { MessageEmbed } = require('discord.js');
 const fs = require('fs');
 const cmdDirectory = fs.readdirSync('./commands');
 
@@ -7,7 +7,7 @@ var logger = fs.createWriteStream('./logs.txt', {flags : 'a'});
 
 module.exports.run = (client, cmd, args) => {
     if (!args[0]) {
-        embed = new Discord.MessageEmbed()
+        embed = new MessageEmbed()
         .setColor('#36393F')
         .addField('Liste des commandes', `Une liste de toutes les catégories disponibles et leurs commandes.\nPour plus d\'infos sur une commande en particulier, tapez \`${config.prefix}help <command_name>\`.`)
         
@@ -18,13 +18,13 @@ module.exports.run = (client, cmd, args) => {
             );
         }
 
-        cmd.channel.send(embed);
+        cmd.channel.send({ embeds: [embed] });
     } else {
         if (args[1]) return cmd.reply('Une seule commande à la fois');
 
         const command = client.commands.get(args[0]) || client.commands.find(cmd => cmd.help.aliases && cmd.help.aliases.includes(args[0]));
         
-        embed = new Discord.MessageEmbed()
+        embed = new MessageEmbed()
         .setColor('#36393F')
         .setTitle(`\`${command.help.name}\``)
         .addField('Description', `${command.help.description}`)
@@ -32,7 +32,7 @@ module.exports.run = (client, cmd, args) => {
 
         if (command.help.aliases.length > 1) embed.addField('Alias', `${command.help.aliases.join(', ')}`);
 
-        cmd.channel.send(embed);
+        cmd.channel.send({ embeds: [embed] });
     }
 
     const date = new Date();

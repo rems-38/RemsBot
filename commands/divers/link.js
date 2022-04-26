@@ -1,11 +1,11 @@
-const Discord = require('discord.js');
+const { MessageEmbed } = require('discord.js');
 const config = require('../../json/config.json');
 const fs = require('fs')
 var logger = fs.createWriteStream('./logs.txt', {flags : 'a'});
 
 module.exports.run = (client, cmd, args) => {
     if (!args[0]) {
-        const embed = new Discord.MessageEmbed()
+        const embed = new MessageEmbed()
         .setTitle('Suivez Rem\'s 38 !')
         .setThumbnail('https://rems38-carnetdelecture.alwaysdata.net/images/link_(for_RemsBot).png')
         .setDescription(`Voici la liste de toutes les plateformes où vous pouvez retrouver Rem\'s 38 !`)
@@ -22,19 +22,19 @@ module.exports.run = (client, cmd, args) => {
         .addField('<:soundcloud:824305273794461737>', '[SoundCloud](https://soundcloud.com/rems-beat)', true)
         .addField('<:peertube:824305257994649660>', '[PeerTube](https://tube.nocturlab.fr/video-channels/rems_38/videos)', true)
         .addField('<:dailymotion:824305172003684412>', '[Dailymotion](https://dailymotion.com/dm_2fe47548ff099c96137e004e7351b698)', true)
-        .setFooter('Suivez-le de partout !!!');
+        .setFooter({text: 'Suivez-le de partout !!!'});
 
         // Pour obtenir les infos des emojis comme ceci, aller dans Discord et taper "\:nom_emoji:" puis envoyez le message !
 
-        cmd.channel.send(embed);
+        cmd.channel.send({ embeds: [embed] });
 
     } else {
         if (args[1]) return cmd.reply("Un seul site à la fois merci !");
 
-        const embed = new Discord.MessageEmbed()
+        const embed = new MessageEmbed()
         .setTitle('Suivez Rem\'s 38 !')
         .setThumbnail('https://rems38-carnetdelecture.alwaysdata.net/images/link_(for_RemsBot).png')
-        .setFooter('Suivez-le de partout !!!');
+        .setFooter({text: 'Suivez-le de partout !!!'});
 
         const site = args[0].toLowerCase();
 
@@ -52,7 +52,7 @@ module.exports.run = (client, cmd, args) => {
         if (site === "peertube") embed.setDescription('Plateforme désirée : **Peertube**').addField('On est là pour les cracks hein !', '<:peertube:824305257994649660> [PeerTube](https://tube.nocturlab.fr/video-channels/rems_38/videos)');
         if (site === "dailymotion") embed.setDescription('Plateforme désirée : **Dailymotion**').addField('Pose pas de questions', '<:dailymotion:824305172003684412> [Dailymotion](https://dailymotion.com/dm_2fe47548ff099c96137e004e7351b698)');
 
-        cmd.channel.send(embed);
+        cmd.channel.send({ embeds: [embed] });
     }
 
     const date = new Date();

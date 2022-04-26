@@ -7,9 +7,9 @@ var logger = fs.createWriteStream('./logs.txt', {flags : 'a'});
 
 module.exports.run = (client, cmd, args) => {
     if(args[2]) return cmd.reply("Trop d'options ! (2 max : user + note)");
-    if(!args[0].startsWith('<@!')) return cmd.reply("Entrez un utilisateur en premier !");
-    if(args[1].startsWith('<@!')) return cmd.reply("Entrez une note en deuxième, pas un utilisateur");
-    if(!(args[1] == 0) && !(args[1] == 1) && !(args[1] == 2) && !(args[1] == 3) && !(args[1] == 4) && !(args[1] == 5)) return cmd.reply("La note doit être comprise entre 01 et 5 !");
+    if(!args[0].startsWith('<@')) return cmd.reply("Entrez un utilisateur en premier !");
+    if(args[1].startsWith('<@')) return cmd.reply("Entrez une note en deuxième, pas un utilisateur");
+    if(!(args[1] == 0) && !(args[1] == 1) && !(args[1] == 2) && !(args[1] == 3) && !(args[1] == 4) && !(args[1] == 5)) return cmd.reply("La note doit être comprise entre 0 et 5 !");
     
     const member_helper = cmd.mentions.members.first();
 

@@ -19,7 +19,7 @@ module.exports.run = (client, cmd, args) => {
         const guild = client.guilds.cache.get(config.serverId);
 
         const nbr = Math.floor(Math.random() * 200);
-        const channel_name = `#${nbr} - Collab`;
+        const channel_name = `${nbr}-collab`;
 
         var array_pseudo = []
         pre_array_pseudo.forEach(pseudo => {
@@ -191,12 +191,13 @@ module.exports.run = (client, cmd, args) => {
 
         const guild = client.guilds.cache.get(config.serverId);
 
-        const channel_name = `#${args[0]} - Collab`;
-        const collab_channel = guild.channels.cache.filter(tip => tip.type === "voice").find(channel => channel.name === channel_name);
+        const channel_name = `${args[0]}-collab`;
+        // const collab_channel = guild.channels.cache.filter(tip => tip.type === "voice").find(channel => channel.name === channel_name);
+        const collab_channel = guild.channels.cache.find(channel => channel.name === channel_name);
 
         const member = guild.members.cache.find(membre => membre.id === member_id);
 
-        collab_channel.updateOverwrite(member, {
+        collab_channel.permissionOverwrites.edit(member, {
             STREAM: true,
             VIEW_CHANNEL : true,
             CONNECT : true,
@@ -221,8 +222,9 @@ module.exports.run = (client, cmd, args) => {
 
         const guild = client.guilds.cache.get(config.serverId);
 
-        const channel_name = `#${args[0]} - Collab`;
-        const collab_channel = guild.channels.cache.filter(tip => tip.type === "voice").find(channel => channel.name === channel_name);
+        const channel_name = `${args[0]}-collab`;
+        // const collab_channel = guild.channels.cache.filter(tip => tip.type === "voice").find(channel => channel.name === channel_name);
+        const collab_channel = guild.channels.cache.find(channel => channel.name === channel_name);
 
         collab_channel.delete();
 

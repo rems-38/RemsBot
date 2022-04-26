@@ -1,4 +1,4 @@
-const Discord = require('discord.js');
+const { MessageEmbed } = require('discord.js');
 const notes_recap = require('../../json/helper.json');
 
 const config = require('../../json/config.json');
@@ -18,12 +18,12 @@ module.exports.run = (client, cmd, args) => {
 
     pseudo = cmd.mentions.members.first().user.username;
 
-    const embedAnswer = new Discord.MessageEmbed()
+    const embedAnswer = new MessageEmbed()
         .setTitle(`Info sur ${pseudo}`)
         .addField('Moyenne', average, true)
         .addField('Nombre de notes', note_number, true);
 
-    cmd.channel.send(embedAnswer);
+    cmd.channel.send({ embeds: [embedAnswer] });
 
     const date = new Date();
     logger.write(`[${date.toLocaleDateString()} ${date.toTimeString().split(' ')[0]}] Commande ${config.prefix}helperinfo exécuter par @${cmd.author.tag}\n`);

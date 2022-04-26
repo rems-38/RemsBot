@@ -1,4 +1,4 @@
-const Discord = require('discord.js');
+const { MessageEmbed } = require('discord.js');
 const config = require('../../json/config.json');
 const fs = require('fs');
 var logger = fs.createWriteStream('./logs.txt', {flags : 'a'})
@@ -101,14 +101,14 @@ module.exports.run = (client, cmd, args) => {
                 },
             };
 
-            // const buttonUnderEmbed = new Discord.MessageButton()
+            // const buttonUnderEmbed = new MessageButton()
             // .setCustomId('primary')
             // .setLabel('Test')
             // .setStyle('PRIMARY');
 
-            // channel.send(new Discord.MessageEmbed(PotMEmbed));
+            // channel.send(new MessageEmbed(PotMEmbed));
             // channel.send({ embeds: MessageEmbed(PotMEmbed), components: [buttonUnderEmbed] });
-            channel.send({ embeds: [new MessageEmbed(PotMEmbed)] });
+            channel.send({ embeds: [PotMEmbed] });
 
             logger.write(`[${date.toLocaleDateString()} ${date.toTimeString().split(' ')[0]}] Event PotM : Start par @${cmd.author.tag}\n`);
             console.log(`[${date.toLocaleDateString()} ${date.toTimeString().split(' ')[0]}] Event PotM : Start par @${cmd.author.tag}`);
@@ -203,7 +203,7 @@ module.exports.run = (client, cmd, args) => {
                 },
             };
 
-            channel.send(new Discord.MessageEmbed(BeatBattleEmbed)).then(msg => {
+            channel.send({ embeds: [BeatBattleEmbed] }).then(msg => {
                 interval = setInterval(() => {
                     if(timeLeft[3] > 0) {
                         timeLeft[3] -= second;
@@ -235,7 +235,7 @@ module.exports.run = (client, cmd, args) => {
                     }
 
                     newEmbed = BeatBattleEmbed.fields[0].value = `${timeLeft[0]}d ${timeLeft[1]}h ${timeLeft[2]}m ${timeLeft[3]}s`;
-                    msg.edit(new Discord.MessageEmbed(BeatBattleEmbed));
+                    msg.edit({ embeds: [BeatBattleEmbed] });
                 }, 1000 * second);
             });
 

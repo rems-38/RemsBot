@@ -1,4 +1,4 @@
-const Discord = require('discord.js');
+const { MessageEmbed } = require('discord.js');
 
 const config = require('../../json/config.json');
 const fs = require('fs')
@@ -62,13 +62,13 @@ module.exports.run = (client, cmd, args) => {
     }
 
     // on crée l'embed
-    const sondageEmbed = new Discord.MessageEmbed()
+    const sondageEmbed = new MessageEmbed()
         .setTitle(titre)
         .setDescription(text)
-        .setFooter(`Sondage créer par @${cmd.author.tag}`);
+        .setFooter({text: `Sondage créer par @${cmd.author.tag}`});
 
     // on envoi l'embed et après on réagis avec les émojis dans la nouvelle list
-    cmd.channel.send(sondageEmbed).then(msg => {
+    cmd.channel.send({ embeds: [sondageEmbed] }).then(msg => {
         emojiListF.forEach(emojii => msg.react(emojii));
     })
 
