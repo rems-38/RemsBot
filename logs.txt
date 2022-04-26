@@ -3336,3 +3336,21 @@ Utilisateur : @Seryxa#5550
 [26/04/2022 19:36:35] Bot identifié en tant que @RemsBot#7582 !
 [26/04/2022 19:37:35] Commande ?clear exécuter par @Rem's 38#3180
 [26/04/2022 19:37:38] Commande ?clear exécuter par @Rem's 38#3180
+--------------------------------------------------------------------
+[26/04/2022 19:38:38] Commande chargée : clear (./commands/admin/clear.js)
+[26/04/2022 19:38:38] Commande chargée : event (./commands/admin/event.js)
+[26/04/2022 19:38:38] Commande chargée : mute (./commands/admin/mute.js)
+[26/04/2022 19:38:38] Commande chargée : prefix (./commands/admin/prefix.js)
+[26/04/2022 19:38:38] Commande chargée : sondage (./commands/admin/sondage.js)
+[26/04/2022 19:38:38] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[26/04/2022 19:38:38] Commande chargée : unmute (./commands/admin/unmute.js)
+[26/04/2022 19:38:38] Commande chargée : help (./commands/divers/help.js)
+[26/04/2022 19:38:38] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[26/04/2022 19:38:38] Commande chargée : link (./commands/divers/link.js)
+[26/04/2022 19:38:38] Commande chargée : note (./commands/divers/note.js)
+[26/04/2022 19:38:38] Commande chargée : ping (./commands/divers/ping.js)
+[26/04/2022 19:38:38] Commande chargée : repeat (./commands/divers/repeat.js)
+[26/04/2022 19:38:38] Commande chargée : vocal (./commands/divers/vocal.js)
+[26/04/2022 19:38:40] Bot identifié en tant que @RemsBot#7582 !
+[26/04/2022 19:38:56] Update : Membre -
+[26/04/2022 19:39:01] Update : Membre +
