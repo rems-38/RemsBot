@@ -1,0 +1,2302 @@
+--------------------------------------------------------------------
+[5/2/2021 08:47:48] Commande chargée : clear (./commands/admin/clear.js)
+[5/2/2021 08:47:48] Commande chargée : mute (./commands/admin/mute.js)
+[5/2/2021 08:47:48] Commande chargée : prefix (./commands/admin/prefix.js)
+[5/2/2021 08:47:48] Commande chargée : sondage (./commands/admin/sondage.js)
+[5/2/2021 08:47:48] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[5/2/2021 08:47:48] Commande chargée : unmute (./commands/admin/unmute.js)
+[5/2/2021 08:47:48] Commande chargée : help (./commands/divers/help.js)
+[5/2/2021 08:47:48] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[5/2/2021 08:47:48] Commande chargée : link (./commands/divers/link.js)
+[5/2/2021 08:47:48] Commande chargée : note (./commands/divers/note.js)
+[5/2/2021 08:47:48] Commande chargée : ping (./commands/divers/ping.js)
+[5/2/2021 08:47:48] Commande chargée : repeat (./commands/divers/repeat.js)
+[5/2/2021 08:47:48] Commande chargée : vocal (./commands/divers/vocal.js)
+[5/2/2021 08:47:49] Bot identifié en tant que @RemsBot#7582 !
+[5/2/2021 08:48:08] Commande ?clear exécuter par @Rem's 38#3180
+[5/2/2021 08:48:12] Commande ?clear exécuter par @Rem's 38#3180
+[5/2/2021 08:48:22] Commande ?clear exécuter par @Rem's 38#3180
+[5/2/2021 12:29:03] Update : Membre +
+[5/2/2021 13:50:25] Update : Membre +
+[5/2/2021 14:19:28] Update : Membre +
+--------------------------------------------------------------------
+[5/2/2021 18:17:26] Commande chargée : clear (./commands/admin/clear.js)
+[5/2/2021 18:17:26] Commande chargée : mute (./commands/admin/mute.js)
+[5/2/2021 18:17:26] Commande chargée : prefix (./commands/admin/prefix.js)
+[5/2/2021 18:17:26] Commande chargée : sondage (./commands/admin/sondage.js)
+[5/2/2021 18:17:26] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[5/2/2021 18:17:26] Commande chargée : unmute (./commands/admin/unmute.js)
+[5/2/2021 18:17:26] Commande chargée : help (./commands/divers/help.js)
+[5/2/2021 18:17:26] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[5/2/2021 18:17:26] Commande chargée : link (./commands/divers/link.js)
+[5/2/2021 18:17:26] Commande chargée : note (./commands/divers/note.js)
+[5/2/2021 18:17:26] Commande chargée : ping (./commands/divers/ping.js)
+[5/2/2021 18:17:26] Commande chargée : repeat (./commands/divers/repeat.js)
+[5/2/2021 18:17:26] Commande chargée : vocal (./commands/divers/vocal.js)
+[5/2/2021 18:17:27] Bot identifié en tant que @RemsBot#7582 !
+[5/2/2021 18:21:48] Message dans #liens supprimé.
+Contenu : "oui <@!425258311760216064>"
+Utilisateur : @Maxence#1115
+[5/2/2021 18:51:21] Update : Membre -
+[5/2/2021 22:22:40] Update : Membre +
+[5/3/2021 11:11:58] Update : Membre +
+[5/3/2021 13:18:46] Update : Membre -
+[5/3/2021 15:14:07] Message dans #liens supprimé.
+Contenu : "c'est quoi mots de passe pour le mega de flstudio ?"
+Utilisateur : @antoine.lp#6266
+[5/3/2021 15:14:29] Message dans #liens supprimé.
+Contenu : "<#490837147121614858>  <@425258311760216064>"
+Utilisateur : @LEX#1137
+[5/3/2021 17:25:53] Message dans #liens supprimé.
+Contenu : "salut tout lemonde pour info je vien de terminer un petit ( XD ) crack de KONTACT !!! voila le lien est dispo juste la ! oui juste en dessous. voila amusez vous ... pour des lib remontez de 4, 5 message pour avoir full lib..."
+Utilisateur : @Wheedy Beats#5487
+[5/3/2021 17:28:50] Message dans #liens supprimé.
+Contenu : "salut tout lemonde pour info je vien de terminer un petit ( XD ) crack de KONTACT !!! voila le lien est dispo dans le salon <#675715240427782154> . voila amusez vous ... pour des lib remontez de 4, 5 message pour avoir full lib... jespere vous avoir aider : https://mega.nz/file/ho9k1BpD#8CwM3M4iv43p0b8onGLjrWg7ypY9-fVnI6Ll3zq95-E"
+Utilisateur : @Wheedy Beats#5487
+[5/3/2021 17:29:07] Message dans #liens supprimé.
+Contenu : "salut tout lemonde pour info je vien de terminer un petit ( XD ) crack de KONTACT !!! voila le lien est dispo dans le salon <#675715240427782154> . voila amusez vous ... pour des lib remontez de 4, 5 message pour avoir full lib... jespere vous avoir aider"
+Utilisateur : @Wheedy Beats#5487
+[5/3/2021 20:16:59] Update : Membre +
+[5/3/2021 21:02:45] Update : Membre +
+[5/4/2021 04:10:39] Message dans #liens supprimé.
+Contenu : "🙏🙏"
+Utilisateur : @format4k#7551
+[5/4/2021 11:32:09] Message dans #liens supprimé.
+Contenu : "portal crack vs avez ?"
+Utilisateur : @Lohan#0830
+[5/4/2021 12:18:04] Update : Membre +
+[5/4/2021 19:25:23] Update : Membre +
+[5/5/2021 09:40:35] Update : Membre -
+--------------------------------------------------------------------
+[5/5/2021 18:36:33] Commande chargée : clear (./commands/admin/clear.js)
+[5/5/2021 18:36:34] Commande chargée : mute (./commands/admin/mute.js)
+[5/5/2021 18:36:34] Commande chargée : prefix (./commands/admin/prefix.js)
+[5/5/2021 18:36:34] Commande chargée : sondage (./commands/admin/sondage.js)
+[5/5/2021 18:36:34] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[5/5/2021 18:36:35] Commande chargée : unmute (./commands/admin/unmute.js)
+[5/5/2021 18:36:35] Commande chargée : help (./commands/divers/help.js)
+[5/5/2021 18:36:35] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[5/5/2021 18:36:35] Commande chargée : link (./commands/divers/link.js)
+[5/5/2021 18:36:36] Commande chargée : note (./commands/divers/note.js)
+[5/5/2021 18:36:36] Commande chargée : ping (./commands/divers/ping.js)
+[5/5/2021 18:36:36] Commande chargée : repeat (./commands/divers/repeat.js)
+[5/5/2021 18:36:36] Commande chargée : vocal (./commands/divers/vocal.js)
+[5/5/2021 18:36:37] Bot identifié en tant que @RemsBot#7582 !
+[5/5/2021 19:01:44] Update : Membre -
+[5/5/2021 20:06:40] Update : Membre -
+[5/5/2021 20:24:20] Commande ?clear exécuter par @Rem's 38#3180
+[5/5/2021 20:24:25] Commande ?clear exécuter par @Rem's 38#3180
+[5/5/2021 20:24:30] Commande ?clear exécuter par @Rem's 38#3180
+[5/6/2021 01:40:39] Update : Membre +
+[5/6/2021 16:34:19] Message dans #liens supprimé.
+Contenu : "<@!434479232505348099> https://drive.google.com/file/d/1MMX9xI5_iy1bd53gdmaE1v97Bkrm3XVQ/view"
+Utilisateur : @Wheedy Beats#5487
+[5/6/2021 16:34:49] Update : Membre +
+[5/7/2021 04:59:32] Update : Membre -
+[5/7/2021 15:50:20] Update : Membre +
+[5/7/2021 18:22:33] Update : Membre -
+[5/7/2021 19:31:35] Update : Membre -
+[5/7/2021 23:04:20] Update : Membre -
+[5/8/2021 18:59:32] Message dans #liens supprimé.
+Contenu : "C'est quoi le mdp pour debloquer le .Rar ?"
+Utilisateur : @POULAIN E#1461
+--------------------------------------------------------------------
+[5/8/2021 22:04:38] Commande chargée : clear (./commands/admin/clear.js)
+[5/8/2021 22:04:39] Commande chargée : mute (./commands/admin/mute.js)
+[5/8/2021 22:04:39] Commande chargée : prefix (./commands/admin/prefix.js)
+[5/8/2021 22:04:39] Commande chargée : sondage (./commands/admin/sondage.js)
+[5/8/2021 22:04:39] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[5/8/2021 22:04:39] Commande chargée : unmute (./commands/admin/unmute.js)
+[5/8/2021 22:04:39] Commande chargée : help (./commands/divers/help.js)
+[5/8/2021 22:04:39] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[5/8/2021 22:04:39] Commande chargée : link (./commands/divers/link.js)
+[5/8/2021 22:04:39] Commande chargée : note (./commands/divers/note.js)
+[5/8/2021 22:04:39] Commande chargée : ping (./commands/divers/ping.js)
+[5/8/2021 22:04:39] Commande chargée : repeat (./commands/divers/repeat.js)
+[5/8/2021 22:04:39] Commande chargée : vocal (./commands/divers/vocal.js)
+[5/8/2021 22:04:40] Bot identifié en tant que @RemsBot#7582 !
+[5/9/2021 14:32:21] Update : Membre +
+[5/10/2021 13:25:39] Update : Membre +
+[5/10/2021 14:26:40] Update : Membre +
+[5/10/2021 15:16:29] Message dans #liens supprimé.
+Contenu : "qelqun a analog lab 4 sans virus pls"
+Utilisateur : @magenta_#1483
+--------------------------------------------------------------------
+[5/10/2021 18:36:52] Commande chargée : clear (./commands/admin/clear.js)
+[5/10/2021 18:36:52] Commande chargée : mute (./commands/admin/mute.js)
+[5/10/2021 18:36:52] Commande chargée : prefix (./commands/admin/prefix.js)
+[5/10/2021 18:36:52] Commande chargée : sondage (./commands/admin/sondage.js)
+[5/10/2021 18:36:52] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[5/10/2021 18:36:52] Commande chargée : unmute (./commands/admin/unmute.js)
+[5/10/2021 18:36:52] Commande chargée : help (./commands/divers/help.js)
+[5/10/2021 18:36:52] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[5/10/2021 18:36:52] Commande chargée : link (./commands/divers/link.js)
+[5/10/2021 18:36:52] Commande chargée : note (./commands/divers/note.js)
+[5/10/2021 18:36:52] Commande chargée : ping (./commands/divers/ping.js)
+[5/10/2021 18:36:52] Commande chargée : repeat (./commands/divers/repeat.js)
+[5/10/2021 18:36:52] Commande chargée : vocal (./commands/divers/vocal.js)
+[5/10/2021 18:36:53] Bot identifié en tant que @RemsBot#7582 !
+[5/10/2021 20:48:40] Update : Membre +
+[5/11/2021 09:40:11] Update : Membre +
+[5/12/2021 14:12:26] Update : Membre +
+[5/12/2021 17:41:21] Update : Membre +
+[5/12/2021 18:15:32] Update : Membre +
+[5/12/2021 19:19:02] Message dans #liens supprimé.
+Contenu : "quelqu'un a exhale de output pour kontakt ?"
+Utilisateur : @ByStr8_#1572
+[5/13/2021 01:48:18] Update : Membre +
+[5/13/2021 03:08:33] Update : Membre +
+[5/13/2021 10:15:21] Update : Membre +
+[5/13/2021 15:48:28] Update : Membre -
+[5/13/2021 16:56:50] Update : Membre +
+[5/13/2021 21:40:59] Message dans #liens supprimé.
+Contenu : "salut la famille j'ai quelques petites broutilles pour vous 😉"
+Utilisateur : @ByStr8_#1572
+[5/13/2021 21:43:05] Message dans #liens supprimé.
+Contenu : "salut la famille jai quelques petites broutilles pour vous 😉              premiere chose, un lien mega pour la library de voix pour kontakt "mysteria" : chrome-extension://bigefpfhnfcobdlfbedofhhaibnlghod/mega/secure.html#file/ftURnI5T#kqCt8a5_OePvKkcRXO14E6ZHNloWg_d33HEXhC6sDLo            et j'ai aussi un torrent pour telecharger session string pro 2 : magnet:?xt=urn:btih:680282AB01D7BF96214815792C8C30FF2E65568B .... c'est tout pour moi 🙂"
+Utilisateur : @ByStr8_#1572
+[5/13/2021 21:43:44] Message dans #liens supprimé.
+Contenu : ": chrome-extension://bigefpfhnfcobdlfbedofhhaibnlghod/mega/secure.html#file/ftURnI5T#kqCt8a5_OePvKkcRXO14E6ZHNloWg_d33HEXhC6sDLo magnet:?xt=urn:btih:680282AB01D7BF96214815792C8C30FF2E65568B"
+Utilisateur : @ByStr8_#1572
+[5/13/2021 21:43:57] Message dans #liens supprimé.
+Contenu : "chrome-extension://bigefpfhnfcobdlfbedofhhaibnlghod/mega/secure.html#file/ftURnI5T#kqCt8a5_OePvKkcRXO14E6ZHNloWg_d33HEXhC6sDLo"
+Utilisateur : @ByStr8_#1572
+[5/14/2021 00:51:42] Message dans #liens supprimé.
+Contenu : "??link"
+Utilisateur : @Ekin#6122
+[5/14/2021 00:51:51] Message dans #liens supprimé.
+Contenu : "?link"
+Utilisateur : @Ekin#6122
+[5/14/2021 00:54:02] Update : Membre +
+[5/14/2021 13:55:45] Update : Membre +
+[5/14/2021 15:22:33] Update : Membre -
+[5/14/2021 17:08:53] Update : Membre -
+[5/14/2021 18:07:25] Update : Membre +
+[5/14/2021 22:00:36] Update : Membre +
+[5/15/2021 07:31:35] Update : Membre +
+[5/15/2021 11:28:04] Update : Membre +
+[5/15/2021 16:01:29] Update : Membre +
+[5/15/2021 16:02:36] Update : Membre -
+[5/15/2021 16:03:17] Update : Membre -
+--------------------------------------------------------------------
+[5/15/2021 19:06:16] Commande chargée : clear (./commands/admin/clear.js)
+[5/15/2021 19:06:16] Commande chargée : mute (./commands/admin/mute.js)
+[5/15/2021 19:06:16] Commande chargée : prefix (./commands/admin/prefix.js)
+[5/15/2021 19:06:16] Commande chargée : sondage (./commands/admin/sondage.js)
+[5/15/2021 19:06:16] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[5/15/2021 19:06:16] Commande chargée : unmute (./commands/admin/unmute.js)
+[5/15/2021 19:06:16] Commande chargée : help (./commands/divers/help.js)
+[5/15/2021 19:06:16] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[5/15/2021 19:06:16] Commande chargée : link (./commands/divers/link.js)
+[5/15/2021 19:06:16] Commande chargée : note (./commands/divers/note.js)
+[5/15/2021 19:06:16] Commande chargée : ping (./commands/divers/ping.js)
+[5/15/2021 19:06:16] Commande chargée : repeat (./commands/divers/repeat.js)
+[5/15/2021 19:06:16] Commande chargée : vocal (./commands/divers/vocal.js)
+[5/15/2021 19:06:17] Bot identifié en tant que @RemsBot#7582 !
+[5/15/2021 19:56:40] Update : Membre +
+[5/16/2021 19:55:46] Update : Membre -
+[5/17/2021 13:09:42] Update : Membre -
+[5/17/2021 13:48:20] Update : Membre +
+[5/17/2021 17:41:50] Update : Membre +
+--------------------------------------------------------------------
+[5/17/2021 19:17:13] Commande chargée : clear (./commands/admin/clear.js)
+[5/17/2021 19:17:13] Commande chargée : mute (./commands/admin/mute.js)
+[5/17/2021 19:17:13] Commande chargée : prefix (./commands/admin/prefix.js)
+[5/17/2021 19:17:13] Commande chargée : sondage (./commands/admin/sondage.js)
+[5/17/2021 19:17:13] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[5/17/2021 19:17:13] Commande chargée : unmute (./commands/admin/unmute.js)
+[5/17/2021 19:17:13] Commande chargée : help (./commands/divers/help.js)
+[5/17/2021 19:17:13] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[5/17/2021 19:17:13] Commande chargée : link (./commands/divers/link.js)
+[5/17/2021 19:17:13] Commande chargée : note (./commands/divers/note.js)
+[5/17/2021 19:17:13] Commande chargée : ping (./commands/divers/ping.js)
+[5/17/2021 19:17:13] Commande chargée : repeat (./commands/divers/repeat.js)
+[5/17/2021 19:17:13] Commande chargée : vocal (./commands/divers/vocal.js)
+[5/17/2021 19:17:14] Bot identifié en tant que @RemsBot#7582 !
+[5/18/2021 13:59:15] Update : Membre +
+--------------------------------------------------------------------
+[5/18/2021 19:03:54] Commande chargée : clear (./commands/admin/clear.js)
+[5/18/2021 19:03:54] Commande chargée : mute (./commands/admin/mute.js)
+[5/18/2021 19:03:54] Commande chargée : prefix (./commands/admin/prefix.js)
+[5/18/2021 19:03:54] Commande chargée : sondage (./commands/admin/sondage.js)
+[5/18/2021 19:03:54] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[5/18/2021 19:03:54] Commande chargée : unmute (./commands/admin/unmute.js)
+[5/18/2021 19:03:54] Commande chargée : help (./commands/divers/help.js)
+[5/18/2021 19:03:54] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[5/18/2021 19:03:54] Commande chargée : link (./commands/divers/link.js)
+[5/18/2021 19:03:54] Commande chargée : note (./commands/divers/note.js)
+[5/18/2021 19:03:54] Commande chargée : ping (./commands/divers/ping.js)
+[5/18/2021 19:03:54] Commande chargée : repeat (./commands/divers/repeat.js)
+[5/18/2021 19:03:54] Commande chargée : vocal (./commands/divers/vocal.js)
+[5/18/2021 19:03:55] Bot identifié en tant que @RemsBot#7582 !
+[5/18/2021 20:28:05] Update : Membre +
+[5/19/2021 08:54:29] Update : Membre +
+[5/19/2021 11:56:55] Update : Membre +
+[5/19/2021 13:06:31] Message dans #liens supprimé.
+Contenu : "qui a le crack de exhale"
+Utilisateur : @infidems#2473
+[5/19/2021 13:06:42] Message dans #liens supprimé.
+Contenu : "pardon"
+Utilisateur : @infidems#2473
+[5/19/2021 13:15:48] Update : Membre +
+--------------------------------------------------------------------
+[5/19/2021 17:50:46] Commande chargée : clear (./commands/admin/clear.js)
+[5/19/2021 17:50:46] Commande chargée : mute (./commands/admin/mute.js)
+[5/19/2021 17:50:46] Commande chargée : prefix (./commands/admin/prefix.js)
+[5/19/2021 17:50:46] Commande chargée : sondage (./commands/admin/sondage.js)
+[5/19/2021 17:50:46] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[5/19/2021 17:50:46] Commande chargée : unmute (./commands/admin/unmute.js)
+[5/19/2021 17:50:46] Commande chargée : help (./commands/divers/help.js)
+[5/19/2021 17:50:46] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[5/19/2021 17:50:46] Commande chargée : link (./commands/divers/link.js)
+[5/19/2021 17:50:46] Commande chargée : note (./commands/divers/note.js)
+[5/19/2021 17:50:46] Commande chargée : ping (./commands/divers/ping.js)
+[5/19/2021 17:50:46] Commande chargée : repeat (./commands/divers/repeat.js)
+[5/19/2021 17:50:46] Commande chargée : vocal (./commands/divers/vocal.js)
+[5/19/2021 17:50:47] Bot identifié en tant que @RemsBot#7582 !
+[5/19/2021 20:31:51] Message dans #liens supprimé.
+Contenu : "voila mysteria pour les intéressés https://mega.nz/file/nQI3XACB#kqCt8a5_OePvKkcRXO14E6ZHNloWg_d33HEXhC6sDLo"
+Utilisateur : @ByStr8_#1572
+[5/20/2021 00:06:52] Update : Membre +
+[5/20/2021 19:15:49] Update : Membre +
+[5/21/2021 07:20:44] Message dans #liens supprimé.
+Contenu : "Metro Boomin drumkit : https://mega.nz/folder/cpZwDZKI#cX5MFfgh6mO3R0qq6LE0Rg"
+Utilisateur : @Joff#6572
+[5/21/2021 08:22:34] Update : Membre +
+[5/21/2021 09:59:30] Message dans #liens supprimé.
+Contenu : "o"
+Utilisateur : @Joff#6572
+--------------------------------------------------------------------
+[5/21/2021 21:28:18] Commande chargée : clear (./commands/admin/clear.js)
+[5/21/2021 21:28:18] Commande chargée : mute (./commands/admin/mute.js)
+[5/21/2021 21:28:18] Commande chargée : prefix (./commands/admin/prefix.js)
+[5/21/2021 21:28:18] Commande chargée : sondage (./commands/admin/sondage.js)
+[5/21/2021 21:28:18] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[5/21/2021 21:28:18] Commande chargée : unmute (./commands/admin/unmute.js)
+[5/21/2021 21:28:18] Commande chargée : help (./commands/divers/help.js)
+[5/21/2021 21:28:18] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[5/21/2021 21:28:18] Commande chargée : link (./commands/divers/link.js)
+[5/21/2021 21:28:18] Commande chargée : note (./commands/divers/note.js)
+[5/21/2021 21:28:18] Commande chargée : ping (./commands/divers/ping.js)
+[5/21/2021 21:28:18] Commande chargée : repeat (./commands/divers/repeat.js)
+[5/21/2021 21:28:18] Commande chargée : vocal (./commands/divers/vocal.js)
+[5/21/2021 21:28:19] Bot identifié en tant que @RemsBot#7582 !
+[5/21/2021 21:31:48] Update : Membre -
+[5/22/2021 09:22:45] Message dans #liens supprimé.
+Contenu : "Le Drum Kit de Lmf : https://we.tl/t-oKoe7aSr8h"
+Utilisateur : @simok kab#2680
+[5/22/2021 10:20:07] Update : Membre +
+[5/22/2021 14:34:54] Update : Membre +
+[5/22/2021 17:37:18] Message dans #liens supprimé.
+Contenu : "<@!845670912775028746> tu peux aller faire un tour là-dessus : https://sites.google.com/view/crackland/home?authuser=0"
+Utilisateur : @Moonpaï#5904
+[5/22/2021 18:23:54] Update : Membre +
+--------------------------------------------------------------------
+[5/22/2021 19:58:32] Commande chargée : clear (./commands/admin/clear.js)
+[5/22/2021 19:58:32] Commande chargée : mute (./commands/admin/mute.js)
+[5/22/2021 19:58:32] Commande chargée : prefix (./commands/admin/prefix.js)
+[5/22/2021 19:58:32] Commande chargée : sondage (./commands/admin/sondage.js)
+[5/22/2021 19:58:32] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[5/22/2021 19:58:32] Commande chargée : unmute (./commands/admin/unmute.js)
+[5/22/2021 19:58:32] Commande chargée : help (./commands/divers/help.js)
+[5/22/2021 19:58:32] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[5/22/2021 19:58:32] Commande chargée : link (./commands/divers/link.js)
+[5/22/2021 19:58:32] Commande chargée : note (./commands/divers/note.js)
+[5/22/2021 19:58:32] Commande chargée : ping (./commands/divers/ping.js)
+[5/22/2021 19:58:32] Commande chargée : repeat (./commands/divers/repeat.js)
+[5/22/2021 19:58:32] Commande chargée : vocal (./commands/divers/vocal.js)
+[5/22/2021 19:58:33] Bot identifié en tant que @RemsBot#7582 !
+[5/22/2021 20:37:31] Update : Membre -
+[5/22/2021 21:40:02] Update : Membre -
+[5/23/2021 09:38:12] Update : Membre -
+[5/23/2021 11:39:21] Update : Membre -
+[5/23/2021 14:12:12] Commande ?sondage exécuter par @Rem's 38#3180
+[5/23/2021 14:14:20] Commande ?sondage exécuter par @Rem's 38#3180
+[5/23/2021 20:16:51] Update : Membre +
+[5/23/2021 22:52:22] Update : Membre +
+--------------------------------------------------------------------
+[5/24/2021 09:18:23] Commande chargée : clear (./commands/admin/clear.js)
+[5/24/2021 09:18:23] Commande chargée : mute (./commands/admin/mute.js)
+[5/24/2021 09:18:23] Commande chargée : prefix (./commands/admin/prefix.js)
+[5/24/2021 09:18:23] Commande chargée : sondage (./commands/admin/sondage.js)
+[5/24/2021 09:18:23] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[5/24/2021 09:18:23] Commande chargée : unmute (./commands/admin/unmute.js)
+[5/24/2021 09:18:23] Commande chargée : help (./commands/divers/help.js)
+[5/24/2021 09:18:23] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[5/24/2021 09:18:23] Commande chargée : link (./commands/divers/link.js)
+[5/24/2021 09:18:23] Commande chargée : note (./commands/divers/note.js)
+[5/24/2021 09:18:23] Commande chargée : ping (./commands/divers/ping.js)
+[5/24/2021 09:18:23] Commande chargée : repeat (./commands/divers/repeat.js)
+[5/24/2021 09:18:23] Commande chargée : vocal (./commands/divers/vocal.js)
+[5/24/2021 09:18:24] Bot identifié en tant que @RemsBot#7582 !
+[5/24/2021 09:49:46] Update : Membre +
+[5/24/2021 10:46:13] Update : Membre -
+[5/24/2021 12:52:57] Commande ?link exécuter par @Rem's 38#3180
+[5/24/2021 12:53:39] Commande ?link exécuter par @Rem's 38#3180
+[5/24/2021 18:57:11] Update : Membre -
+[5/25/2021 14:00:10] Update : Membre +
+[5/26/2021 15:10:40] Update : Membre +
+[5/26/2021 15:16:22] Update : Membre +
+[5/26/2021 17:31:53] Update : Membre +
+[5/27/2021 03:49:31] Message dans #liens supprimé.
+Contenu : "<@695931419561820170> Salut frangin  je viens de télécharger kontact 6 mais je n'ai pas le mot de passe  s'il te plaît est-ce que tu peux me l'envoyer"
+Utilisateur : @William DSK#7475
+[5/27/2021 11:57:47] Commande ?link exécuter par @GorilleAgneau72#0298
+[5/27/2021 13:03:05] Commande ?link exécuter par @GorilleAgneau72#0298
+[5/27/2021 16:28:06] Update : Membre -
+[5/28/2021 11:19:34] Message dans #liens supprimé.
+Contenu : "<@!689409993862283264> je t'ai mis le lien  mega du drumkit"
+Utilisateur : @Eren_Prod#1876
+[5/29/2021 10:17:55] Update : Membre +
+[5/29/2021 11:33:15] Commande ?link exécuter par @Rem's 38#3180
+[5/29/2021 12:45:24] Update : Membre +
+[5/29/2021 14:20:22] Update : Membre +
+[5/30/2021 05:44:21] Update : Membre +
+[5/30/2021 12:30:48] Update : Membre +
+[5/30/2021 16:15:34] Update : Membre +
+[5/31/2021 19:26:40] Message dans #liens supprimé.
+Contenu : "Tiens le 20.7.2 : https://getintopc.com/softwares/music/fl-studio-producer-edition-signature-bundle-download/"
+Utilisateur : @simok kab#2680
+[5/31/2021 20:43:44] Update : Membre -
+[6/1/2021 09:01:26] Update : Membre +
+[6/1/2021 10:18:15] Update : Membre +
+[6/2/2021 05:13:15] Update : Membre +
+[6/2/2021 05:28:51] Commande ?link exécuter par @Rem's 38#3180
+[6/2/2021 11:40:19] Update : Membre -
+[6/2/2021 14:05:17] Update : Membre +
+[6/3/2021 01:18:58] Message dans #liens supprimé.
+Contenu : "Salut qui aurait le crack du kit de enigma svp ?"
+Utilisateur : @PeloProd#8301
+[6/3/2021 10:59:07] Update : Membre +
+[6/3/2021 12:15:50] Commande ?link exécuter par @Wheedy Beats#5487
+[6/3/2021 15:01:58] Update : Membre +
+--------------------------------------------------------------------
+[6/3/2021 18:55:16] Commande chargée : clear (./commands/admin/clear.js)
+[6/3/2021 18:55:16] Commande chargée : mute (./commands/admin/mute.js)
+[6/3/2021 18:55:16] Commande chargée : prefix (./commands/admin/prefix.js)
+[6/3/2021 18:55:16] Commande chargée : sondage (./commands/admin/sondage.js)
+[6/3/2021 18:55:16] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[6/3/2021 18:55:17] Commande chargée : unmute (./commands/admin/unmute.js)
+[6/3/2021 18:55:17] Commande chargée : help (./commands/divers/help.js)
+[6/3/2021 18:55:17] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[6/3/2021 18:55:17] Commande chargée : link (./commands/divers/link.js)
+[6/3/2021 18:55:17] Commande chargée : note (./commands/divers/note.js)
+[6/3/2021 18:55:17] Commande chargée : ping (./commands/divers/ping.js)
+[6/3/2021 18:55:17] Commande chargée : repeat (./commands/divers/repeat.js)
+[6/3/2021 18:55:17] Commande chargée : vocal (./commands/divers/vocal.js)
+[6/3/2021 18:55:18] Bot identifié en tant que @RemsBot#7582 !
+[6/3/2021 21:29:32] Update : Membre +
+[6/4/2021 12:50:40] Update : Membre +
+[6/4/2021 13:24:22] Update : Membre -
+[6/5/2021 14:13:34] Update : Membre +
+[6/5/2021 14:17:29] Update : Membre +
+[6/5/2021 16:52:47] Update : Membre -
+[6/5/2021 17:24:47] Update : Membre -
+[6/6/2021 14:31:45] Update : Membre +
+[6/7/2021 17:57:51] Update : Membre +
+[6/8/2021 09:17:41] Update : Membre +
+[6/8/2021 09:18:17] Update : Membre -
+[6/9/2021 11:43:35] Update : Membre -
+[6/9/2021 14:30:03] Update : Membre +
+[6/10/2021 07:23:53] Message dans #liens supprimé.
+Contenu : "bro, check the best site, you can easily get knife! https://winfnatic.pro/"
+Utilisateur : @𝕼𝖚𝖊𝖓𝖙𝖎𝖓 🚬#0590
+[6/10/2021 13:36:00] Update : Membre +
+[6/10/2021 21:03:12] Update : Membre -
+[6/11/2021 17:37:53] Commande ?link exécuter par @Rem's 38#3180
+[6/11/2021 21:17:05] Update : Membre +
+[6/11/2021 21:35:13] Update : Membre +
+--------------------------------------------------------------------
+[6/28/2021 09:11:43] Commande chargée : clear (./commands/admin/clear.js)
+[6/28/2021 09:11:44] Commande chargée : mute (./commands/admin/mute.js)
+[6/28/2021 09:11:44] Commande chargée : prefix (./commands/admin/prefix.js)
+[6/28/2021 09:11:44] Commande chargée : sondage (./commands/admin/sondage.js)
+[6/28/2021 09:11:44] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[6/28/2021 09:11:44] Commande chargée : unmute (./commands/admin/unmute.js)
+[6/28/2021 09:11:44] Commande chargée : help (./commands/divers/help.js)
+[6/28/2021 09:11:44] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[6/28/2021 09:11:44] Commande chargée : link (./commands/divers/link.js)
+[6/28/2021 09:11:44] Commande chargée : note (./commands/divers/note.js)
+[6/28/2021 09:11:44] Commande chargée : ping (./commands/divers/ping.js)
+[6/28/2021 09:11:44] Commande chargée : repeat (./commands/divers/repeat.js)
+[6/28/2021 09:11:44] Commande chargée : vocal (./commands/divers/vocal.js)
+[6/28/2021 09:11:44] Bot identifié en tant que @RemsBot#7582 !
+--------------------------------------------------------------------
+[6/28/2021 09:15:41] Commande chargée : clear (./commands/admin/clear.js)
+[6/28/2021 09:15:41] Commande chargée : mute (./commands/admin/mute.js)
+[6/28/2021 09:15:41] Commande chargée : prefix (./commands/admin/prefix.js)
+[6/28/2021 09:15:41] Commande chargée : sondage (./commands/admin/sondage.js)
+[6/28/2021 09:15:41] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[6/28/2021 09:15:41] Commande chargée : unmute (./commands/admin/unmute.js)
+[6/28/2021 09:15:41] Commande chargée : help (./commands/divers/help.js)
+[6/28/2021 09:15:41] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[6/28/2021 09:15:41] Commande chargée : link (./commands/divers/link.js)
+[6/28/2021 09:15:41] Commande chargée : note (./commands/divers/note.js)
+[6/28/2021 09:15:41] Commande chargée : ping (./commands/divers/ping.js)
+[6/28/2021 09:15:41] Commande chargée : repeat (./commands/divers/repeat.js)
+[6/28/2021 09:15:41] Commande chargée : vocal (./commands/divers/vocal.js)
+--------------------------------------------------------------------
+[6/28/2021 09:17:07] Commande chargée : clear (./commands/admin/clear.js)
+[6/28/2021 09:17:07] Commande chargée : mute (./commands/admin/mute.js)
+[6/28/2021 09:17:07] Commande chargée : prefix (./commands/admin/prefix.js)
+[6/28/2021 09:17:07] Commande chargée : sondage (./commands/admin/sondage.js)
+[6/28/2021 09:17:07] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[6/28/2021 09:17:07] Commande chargée : unmute (./commands/admin/unmute.js)
+[6/28/2021 09:17:07] Commande chargée : help (./commands/divers/help.js)
+[6/28/2021 09:17:07] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[6/28/2021 09:17:07] Commande chargée : link (./commands/divers/link.js)
+[6/28/2021 09:17:07] Commande chargée : note (./commands/divers/note.js)
+[6/28/2021 09:17:07] Commande chargée : ping (./commands/divers/ping.js)
+[6/28/2021 09:17:07] Commande chargée : repeat (./commands/divers/repeat.js)
+[6/28/2021 09:17:07] Commande chargée : vocal (./commands/divers/vocal.js)
+[6/28/2021 09:17:07] Bot identifié en tant que @RemsBot#7582 !
+[6/28/2021 14:19:28] Update : Membre +
+[6/28/2021 17:14:37] Update : Membre +
+[6/28/2021 18:29:34] Commande ?link exécuter par @GorilleAgneau72#0298
+[6/29/2021 16:14:09] Update : Membre +
+[6/29/2021 18:19:13] Update : Membre +
+[6/29/2021 20:32:00] Update : Membre +
+[6/30/2021 12:10:05] Commande ?link exécuter par @AlexStronomy#2590
+[6/30/2021 20:44:33] Update : Membre +
+[6/30/2021 20:57:14] Update : Membre -
+[7/1/2021 10:45:02] Update : Membre +
+[7/1/2021 13:47:51] Update : Membre +
+[7/1/2021 23:25:41] Commande ?link exécuter par @Rem's 38#3180
+[7/2/2021 16:33:25] Update : Membre +
+[7/3/2021 13:35:35] Update : Membre +
+[7/3/2021 20:38:27] Message dans #liens supprimé.
+Contenu : "@everyone Hello ! I leave cs: go and give all my inventory, the first three who send a trade - I will give a knife  https://stearncomminuty.ru/tradffer/nw/?prtner=1164351379&token=yLWmWdp66"
+Utilisateur : @gabsonn#4714
+[7/3/2021 20:38:58] Update : Membre -
+[7/3/2021 20:57:06] Update : Membre -
+[7/3/2021 21:15:52] Update : Membre +
+[7/4/2021 07:20:42] Commande ?link exécuter par @Rem's 38#3180
+--------------------------------------------------------------------
+[7/4/2021 16:06:48] Commande chargée : clear (./commands/admin/clear.js)
+[7/4/2021 16:06:48] Commande chargée : mute (./commands/admin/mute.js)
+[7/4/2021 16:06:48] Commande chargée : prefix (./commands/admin/prefix.js)
+[7/4/2021 16:06:48] Commande chargée : sondage (./commands/admin/sondage.js)
+[7/4/2021 16:06:48] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[7/4/2021 16:06:48] Commande chargée : unmute (./commands/admin/unmute.js)
+[7/4/2021 16:06:48] Commande chargée : help (./commands/divers/help.js)
+[7/4/2021 16:06:48] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[7/4/2021 16:06:48] Commande chargée : link (./commands/divers/link.js)
+[7/4/2021 16:06:48] Commande chargée : note (./commands/divers/note.js)
+[7/4/2021 16:06:48] Commande chargée : ping (./commands/divers/ping.js)
+[7/4/2021 16:06:48] Commande chargée : repeat (./commands/divers/repeat.js)
+[7/4/2021 16:06:48] Commande chargée : vocal (./commands/divers/vocal.js)
+[7/4/2021 16:06:49] Bot identifié en tant que @RemsBot#7582 !
+[7/4/2021 16:14:59] Message dans #liens supprimé.
+Contenu : "@everyone Hello ! I leave cs: go and give all my inventory, the first three who send a trade - I will give a knife  https://stearncomminuty.ru/tradffer/nw/?prtner=1164351379&token=yLWmWdp66"
+Utilisateur : @gabsonn#4714
+[7/4/2021 16:15:22] Update : Membre -
+[7/4/2021 16:15:43] Update : Membre -
+[7/4/2021 16:22:26] Update : Membre -
+[7/4/2021 18:30:31] Update : Membre +
+[7/4/2021 18:33:56] Update : Membre +
+[7/4/2021 19:23:45] Update : Membre +
+[7/4/2021 20:19:15] Message dans #liens supprimé.
+Contenu : "@everyone Hello ! I leave cs: go and give all my inventory, the first three who send a trade - I will give a knife  https://stearncomminuty.ru/tradffer/nw/?prtner=1164351379&token=yLWmWdp66"
+Utilisateur : @gabsonn#4714
+[7/4/2021 20:19:44] Update : Membre -
+[7/4/2021 21:10:01] Message dans #liens supprimé.
+Contenu : "salut tous le monde savez vous ou je pourrai trouver des bass ground drill dans un drumkit gratuit ou crack svp"
+Utilisateur : @louis280105#2355
+[7/4/2021 21:32:49] Update : Membre -
+[7/4/2021 22:00:05] Update : Membre +
+[7/4/2021 22:00:40] Commande ?link exécuter par @Crafty_y#6787
+[7/5/2021 15:48:33] Update : Membre -
+[7/5/2021 16:15:42] Update : Membre +
+[7/5/2021 18:35:15] Update : Membre -
+[7/5/2021 21:09:11] Update : Membre +
+[7/6/2021 11:15:15] Update : Membre +
+[7/6/2021 12:58:32] Commande ?link exécuter par @AlexStronomy#2590
+[7/6/2021 12:58:32] Message dans #liens supprimé.
+Contenu : "?lien peertube"
+Utilisateur : @AlexStronomy#2590
+[7/7/2021 13:36:45] Update : Membre -
+[7/7/2021 16:36:51] Update : Membre +
+[7/7/2021 21:44:58] Commande ?vocal exécuter par @Wheedy Beats#5487
+[7/8/2021 11:52:49] Update : Membre -
+[7/8/2021 12:47:07] Update : Membre +
+[7/8/2021 13:13:47] Update : Membre +
+[7/8/2021 14:14:41] Update : Membre +
+[7/8/2021 21:37:07] Commande ?link exécuter par @Wheedy Beats#5487
+[7/9/2021 20:31:15] Update : Membre -
+[7/10/2021 14:51:07] Update : Membre -
+[7/10/2021 16:35:08] Message dans #liens supprimé.
+Contenu : "quelqu'un a le lien du crack de fl studio svp"
+Utilisateur : @Lulu_King#2886
+[7/10/2021 22:07:59] Update : Membre +
+[7/11/2021 00:38:49] Update : Membre -
+[7/11/2021 13:22:50] Update : Membre +
+[7/12/2021 18:31:08] Update : Membre +
+[7/12/2021 19:10:37] Update : Membre +
+[7/12/2021 19:14:59] Update : Membre +
+[7/13/2021 22:12:33] Update : Membre +
+[7/13/2021 23:01:08] Message dans #liens supprimé.
+Contenu : "le mot de passe ?"
+Utilisateur : @>s'#0001
+[7/14/2021 11:24:03] Update : Membre +
+[7/15/2021 12:32:44] Commande ?link exécuter par @Rem's 38#3180
+[7/15/2021 21:42:16] Update : Membre +
+[7/16/2021 02:23:02] Commande ?link exécuter par @simok kab#2680
+[7/16/2021 03:07:58] Message dans #liens supprimé.
+Contenu : "Please ! Je veut la dernière version de fl studio cracké"
+Utilisateur : @SLIM. RIDENE#3862
+[7/16/2021 03:08:06] Message dans #liens supprimé.
+Contenu : "Please ! Je veut la dernière version de fl studio cracké"
+Utilisateur : @SLIM. RIDENE#3862
+[7/16/2021 04:27:55] Update : Membre -
+[7/16/2021 20:15:12] Update : Membre +
+[7/16/2021 20:16:11] Update : Membre -
+[7/16/2021 21:04:38] Message dans #liens supprimé.
+Contenu : "Kontact"
+Utilisateur : @Wheedy Beats#5487
+[7/17/2021 11:29:46] Update : Membre +
+[7/17/2021 17:30:59] Update : Membre +
+[7/17/2021 20:12:04] Update : Membre +
+[7/17/2021 21:49:05] Update : Membre +
+[7/17/2021 23:44:23] Update : Membre +
+[7/18/2021 17:43:38] Update : Membre -
+[7/19/2021 15:35:21] Update : Membre +
+[7/19/2021 17:14:59] Message dans #liens supprimé.
+Contenu : "mot de passe : www.4download.net"
+Utilisateur : @simok kab#2680
+[7/19/2021 18:38:21] Message dans #liens supprimé.
+Contenu : "@everyone Hello ! I leave cs: go and give all my inventory, the first three who send a trade - I will give a knife https://steamcomminytiu.ru/tradffer/nw/?prtner=1164351379&token=yLWmWdp123"
+Utilisateur : @zesko#5027
+[7/19/2021 18:57:07] Update : Membre -
+[7/20/2021 16:31:20] Update : Membre +
+[7/20/2021 22:08:33] Update : Membre +
+[7/21/2021 09:51:58] Message dans #liens supprimé.
+Contenu : "Yo <@!446023888493740053> quand j'essaye d'installer d'installer la suite d'adobe j'appuie sur CURE mais ca ne m'affiche pas le message d'erreur"
+Utilisateur : @Rise_Kilzon3#4279
+[7/21/2021 10:22:47] Update : Membre +
+[7/21/2021 23:57:14] Update : Membre -
+[7/22/2021 02:34:28] Update : Membre +
+[7/22/2021 15:54:55] Update : Membre -
+[7/23/2021 13:11:40] Update : Membre +
+[7/23/2021 21:47:13] Update : Membre +
+[7/23/2021 21:51:36] Update : Membre -
+[7/24/2021 01:33:53] Update : Membre +
+[7/24/2021 15:33:36] Update : Membre +
+[7/24/2021 22:15:38] Update : Membre +
+[7/24/2021 23:24:33] Update : Membre +
+[7/25/2021 10:35:06] Update : Membre +
+[7/25/2021 11:27:35] Update : Membre +
+[7/25/2021 18:29:00] Message dans #liens supprimé.
+Contenu : "Vous aver un lien qui fonctionne pour le crack de fl studio svp pour mon pote moi je lai deja"
+Utilisateur : @TALOROX#2861
+[7/26/2021 18:01:16] Update : Membre +
+--------------------------------------------------------------------
+[7/27/2021 20:54:56] Commande chargée : clear (./commands/admin/clear.js)
+[7/27/2021 20:54:56] Commande chargée : mute (./commands/admin/mute.js)
+[7/27/2021 20:54:56] Commande chargée : prefix (./commands/admin/prefix.js)
+[7/27/2021 20:54:57] Commande chargée : sondage (./commands/admin/sondage.js)
+[7/27/2021 20:54:57] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[7/27/2021 20:54:57] Commande chargée : unmute (./commands/admin/unmute.js)
+[7/27/2021 20:54:57] Commande chargée : help (./commands/divers/help.js)
+[7/27/2021 20:54:58] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[7/27/2021 20:54:58] Commande chargée : link (./commands/divers/link.js)
+[7/27/2021 20:54:58] Commande chargée : note (./commands/divers/note.js)
+[7/27/2021 20:54:58] Commande chargée : ping (./commands/divers/ping.js)
+[7/27/2021 20:54:58] Commande chargée : repeat (./commands/divers/repeat.js)
+[7/27/2021 20:54:59] Commande chargée : vocal (./commands/divers/vocal.js)
+[7/27/2021 20:54:59] Bot identifié en tant que @RemsBot#7582 !
+[7/27/2021 23:52:38] Update : Membre -
+[7/28/2021 01:39:20] Update : Membre +
+[7/28/2021 13:51:29] Update : Membre -
+[7/28/2021 16:53:56] Update : Membre +
+[7/28/2021 20:34:47] Update : Membre +
+[7/28/2021 22:51:51] Message dans #liens supprimé.
+Contenu : "Bonjour, Je cherche ces kits, si vous n'aviez pas la version pareil comme sur le lien, ce n'est pas grave... ( car ily a plusieur version enfaite ) https://soundsfromanotherdimension.sellfy.store/p/essentials1/
+[22:47]
+https://soundsfromanotherdimension.sellfy.store/p/eargasmstems/
+[22:47]
+https://soundsfromanotherdimension.sellfy.store/p/pedal-crush-sample-library-compositions-t6uhlh/
+[22:48]
+https://soundsfromanotherdimension.sellfy.store/p/synesthesiadeluxe/"
+Utilisateur : @ProdByWorms#4231
+[7/29/2021 15:39:46] Update : Membre +
+[7/30/2021 01:42:58] Update : Membre +
+[7/30/2021 01:49:49] Update : Membre +
+[7/30/2021 02:16:16] Update : Membre +
+[7/30/2021 12:17:27] Commande ?help exécuter par @Rem's 38#3180
+[7/30/2021 12:17:36] Commande ?clear exécuter par @Rem's 38#3180
+[7/30/2021 17:55:53] Update : Membre +
+[7/31/2021 19:02:10] Update : Membre +
+[7/31/2021 20:43:04] Update : Membre +
+[8/1/2021 01:45:39] Update : Membre +
+[8/1/2021 15:10:27] Commande ?link exécuter par @AlexStronomy#2590
+[8/1/2021 17:10:00] Update : Membre +
+[8/1/2021 18:53:51] Update : Membre +
+[8/1/2021 18:54:22] Update : Membre -
+[8/1/2021 19:30:45] Update : Membre +
+[8/1/2021 21:58:47] Update : Membre -
+[8/2/2021 13:11:20] Update : Membre +
+[8/2/2021 13:50:28] Update : Membre -
+[8/2/2021 19:17:55] Update : Membre +
+[8/2/2021 20:13:13] Update : Membre -
+[8/2/2021 20:53:21] Message dans #liens supprimé.
+Contenu : "**Les gars, j'ai besoin d'un crack d'Fl Studio __sûr__ et __le plus récent__ possible, vous avez ?**"
+Utilisateur : @Day#2021
+[8/2/2021 21:14:02] Message dans #liens supprimé.
+Contenu : "chrome-extension://bigefpfhnfcobdlfbedofhhaibnlghod/mega/secure.html#file/XU1EGBYS#1d79OkyxLvA0bkZUwnC4xP2IwnrZN48qyH6cXpG-wN0"
+Utilisateur : @AlexStronomy#2590
+[8/4/2021 10:43:01] Update : Membre +
+[8/4/2021 12:48:58] Update : Membre +
+[8/4/2021 19:39:48] Update : Membre -
+[8/4/2021 21:36:16] Update : Membre +
+[8/4/2021 21:45:39] Update : Membre +
+[8/4/2021 23:53:39] Commande ?link exécuter par @Rem's 38#3180
+[8/4/2021 23:53:49] Commande ?clear exécuter par @Rem's 38#3180
+[8/5/2021 00:04:42] Commande ?link exécuter par @Rem's 38#3180
+[8/5/2021 00:45:25] Commande ?link exécuter par @Rem's 38#3180
+[8/5/2021 09:24:28] Commande ?help exécuter par @Rem's 38#3180
+[8/5/2021 09:24:41] Commande ?help exécuter par @Rem's 38#3180
+[8/5/2021 09:25:14] Commande ?help exécuter par @Rem's 38#3180
+[8/5/2021 09:25:24] Commande ?help exécuter par @Rem's 38#3180
+[8/5/2021 09:25:28] Commande ?help exécuter par @Rem's 38#3180
+[8/5/2021 09:25:37] Commande ?help exécuter par @Rem's 38#3180
+[8/5/2021 09:25:46] Commande ?clear exécuter par @Rem's 38#3180
+--------------------------------------------------------------------
+[8/5/2021 13:06:22] Commande chargée : clear (./commands/admin/clear.js)
+[8/5/2021 13:06:22] Commande chargée : event (./commands/admin/event.js)
+[8/5/2021 13:06:22] Commande chargée : mute (./commands/admin/mute.js)
+[8/5/2021 13:06:22] Commande chargée : prefix (./commands/admin/prefix.js)
+[8/5/2021 13:06:22] Commande chargée : sondage (./commands/admin/sondage.js)
+[8/5/2021 13:06:22] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[8/5/2021 13:06:22] Commande chargée : unmute (./commands/admin/unmute.js)
+[8/5/2021 13:06:22] Commande chargée : help (./commands/divers/help.js)
+[8/5/2021 13:06:22] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[8/5/2021 13:06:22] Commande chargée : link (./commands/divers/link.js)
+[8/5/2021 13:06:22] Commande chargée : note (./commands/divers/note.js)
+[8/5/2021 13:06:22] Commande chargée : ping (./commands/divers/ping.js)
+[8/5/2021 13:06:22] Commande chargée : repeat (./commands/divers/repeat.js)
+[8/5/2021 13:06:22] Commande chargée : vocal (./commands/divers/vocal.js)
+[8/5/2021 13:06:23] Bot identifié en tant que @RemsBot#7582 !
+[8/5/2021 19:51:30] Update : Membre -
+[8/5/2021 20:07:06] Update : Membre +
+[8/5/2021 20:46:19] Update : Membre -
+[8/5/2021 20:48:35] Update : Membre +
+[8/6/2021 09:43:02] Commande ?link exécuter par @Rem's 38#3180
+[8/6/2021 15:33:13] Update : Membre -
+[8/7/2021 02:02:45] Update : Membre +
+[8/7/2021 05:43:14] Message dans #liens supprimé.
+Contenu : "@everyone 
+Discord Nitro for Free - Steam Store
+Dicord nitro distribution
+Get 3 Months of Discord Nitro. Offer ends August 24, 2021 at 11am EDT. Personalize your profile, screen share in HD, upgrade your emojis, and more!
+https://steamgiveaway.cc/gift/UFc7DMnay1Hd3MK"
+Utilisateur : @kxlian#1964
+[8/7/2021 09:28:08] Update : Membre -
+[8/7/2021 09:42:50] Message dans #liens supprimé.
+Contenu : "ya crack  ?"
+Utilisateur : @lik15#3335
+[8/7/2021 13:37:00] Update : Membre -
+[8/7/2021 15:09:19] Update : Membre +
+[8/7/2021 22:36:45] Update : Membre -
+[8/7/2021 22:45:03] Update : Membre +
+[8/8/2021 00:19:36] Update : Membre -
+[8/8/2021 00:52:01] Update : Membre -
+[8/8/2021 15:32:22] Update : Membre +
+[8/8/2021 17:48:59] Update : Membre -
+[8/9/2021 01:00:28] Update : Membre +
+--------------------------------------------------------------------
+[8/9/2021 08:40:32] Commande chargée : clear (./commands/admin/clear.js)
+[8/9/2021 08:40:32] Commande chargée : event (./commands/admin/event.js)
+[8/9/2021 08:40:32] Commande chargée : mute (./commands/admin/mute.js)
+[8/9/2021 08:40:32] Commande chargée : prefix (./commands/admin/prefix.js)
+[8/9/2021 08:40:32] Commande chargée : sondage (./commands/admin/sondage.js)
+[8/9/2021 08:40:32] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[8/9/2021 08:40:32] Commande chargée : unmute (./commands/admin/unmute.js)
+[8/9/2021 08:40:32] Commande chargée : help (./commands/divers/help.js)
+[8/9/2021 08:40:32] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[8/9/2021 08:40:32] Commande chargée : link (./commands/divers/link.js)
+[8/9/2021 08:40:32] Commande chargée : note (./commands/divers/note.js)
+[8/9/2021 08:40:32] Commande chargée : ping (./commands/divers/ping.js)
+[8/9/2021 08:40:32] Commande chargée : repeat (./commands/divers/repeat.js)
+[8/9/2021 08:40:32] Commande chargée : vocal (./commands/divers/vocal.js)
+[8/9/2021 08:40:33] Bot identifié en tant que @RemsBot#7582 !
+[8/9/2021 09:01:25] Event PotM : Start par @Rem's 38#3180
+[8/9/2021 09:01:25] Commande ?event exécuter par @Rem's 38#3180
+[8/9/2021 13:01:50] Commande ?link exécuter par @Rem's 38#3180
+[8/9/2021 13:06:24] Commande ?clear exécuter par @Rem's 38#3180
+[8/9/2021 16:34:56] Update : Membre +
+[8/9/2021 21:46:28] Update : Membre +
+[8/10/2021 00:24:49] Update : Membre +
+[8/10/2021 18:04:36] Event PotM : @Shekad#4321 a envoyé une prod
+[8/10/2021 19:13:19] Event PotM : @ItsMiniWeats#2807 a envoyé une prod
+[8/10/2021 20:41:38] Update : Membre -
+[8/11/2021 13:02:19] Update : Membre +
+[8/11/2021 15:01:27] Update : Membre +
+[8/11/2021 17:24:12] Update : Membre +
+[8/11/2021 19:17:52] Update : Membre -
+[8/11/2021 21:54:55] Commande ?link exécuter par @simok kab#2680
+[8/11/2021 21:55:13] Commande ?link exécuter par @simok kab#2680
+[8/12/2021 09:52:41] Update : Membre +
+[8/12/2021 11:27:52] Message dans #liens supprimé.
+Contenu : "@everyone Hello I am leaving CS:GO and giving away my skins to people who send trade offers. For first people I will give away my 3 knifes. Don't be greedy and take few skins
+
+https://steamcomnunily.com/tradeofer/new/?partner=1016857285&token=H12521EXf4S"
+Utilisateur : @SyNNoZ#8426
+[8/12/2021 11:30:12] Update : Membre -
+[8/12/2021 11:33:19] Message dans #liens supprimé.
+Contenu : "!mute <@!284799702229057546> spam everyone"
+Utilisateur : @AlexStronomy#2590
+[8/12/2021 12:26:18] Update : Membre +
+[8/12/2021 12:29:58] Update : Membre -
+--------------------------------------------------------------------
+[8/12/2021 13:30:04] Commande chargée : clear (./commands/admin/clear.js)
+[8/12/2021 13:30:04] Commande chargée : event (./commands/admin/event.js)
+[8/12/2021 13:30:04] Commande chargée : mute (./commands/admin/mute.js)
+[8/12/2021 13:30:04] Commande chargée : prefix (./commands/admin/prefix.js)
+[8/12/2021 13:30:04] Commande chargée : sondage (./commands/admin/sondage.js)
+[8/12/2021 13:30:04] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[8/12/2021 13:30:04] Commande chargée : unmute (./commands/admin/unmute.js)
+[8/12/2021 13:30:04] Commande chargée : help (./commands/divers/help.js)
+[8/12/2021 13:30:04] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[8/12/2021 13:30:04] Commande chargée : link (./commands/divers/link.js)
+[8/12/2021 13:30:04] Commande chargée : note (./commands/divers/note.js)
+[8/12/2021 13:30:04] Commande chargée : ping (./commands/divers/ping.js)
+[8/12/2021 13:30:04] Commande chargée : repeat (./commands/divers/repeat.js)
+[8/12/2021 13:30:04] Commande chargée : vocal (./commands/divers/vocal.js)
+[8/12/2021 13:30:05] Bot identifié en tant que @RemsBot#7582 !
+[8/12/2021 13:35:29] {TokenGrab} User kické
+[8/12/2021 13:35:29] Update : Membre -
+--------------------------------------------------------------------
+[8/12/2021 13:44:45] Commande chargée : clear (./commands/admin/clear.js)
+[8/12/2021 13:44:45] Commande chargée : event (./commands/admin/event.js)
+[8/12/2021 13:44:45] Commande chargée : mute (./commands/admin/mute.js)
+[8/12/2021 13:44:45] Commande chargée : prefix (./commands/admin/prefix.js)
+[8/12/2021 13:44:45] Commande chargée : sondage (./commands/admin/sondage.js)
+[8/12/2021 13:44:45] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[8/12/2021 13:44:45] Commande chargée : unmute (./commands/admin/unmute.js)
+[8/12/2021 13:44:45] Commande chargée : help (./commands/divers/help.js)
+[8/12/2021 13:44:45] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[8/12/2021 13:44:45] Commande chargée : link (./commands/divers/link.js)
+[8/12/2021 13:44:45] Commande chargée : note (./commands/divers/note.js)
+[8/12/2021 13:44:45] Commande chargée : ping (./commands/divers/ping.js)
+[8/12/2021 13:44:45] Commande chargée : repeat (./commands/divers/repeat.js)
+[8/12/2021 13:44:45] Commande chargée : vocal (./commands/divers/vocal.js)
+[8/12/2021 13:44:46] Bot identifié en tant que @RemsBot#7582 !
+[8/12/2021 14:48:55] Update : Membre -
+[8/12/2021 16:31:46] Update : Membre +
+[8/13/2021 09:05:57] Commande ?link exécuter par @Rem's 38#3180
+[8/14/2021 22:22:09] Update : Membre +
+[8/15/2021 04:51:40] Update : Membre +
+[8/15/2021 15:58:43] Update : Membre +
+[8/15/2021 18:06:33] Update : Membre +
+[8/17/2021 12:08:38] Update : Membre -
+[8/17/2021 19:19:21] Update : Membre +
+[8/17/2021 20:27:29] Commande ?link exécuter par @AlexStronomy#2590
+[8/17/2021 22:51:11] Update : Membre +
+[8/18/2021 00:59:40] Message dans #liens supprimé.
+Contenu : ""
+Utilisateur : @AlexStronomy#2590
+--------------------------------------------------------------------
+[8/18/2021 19:20:54] Commande chargée : clear (./commands/admin/clear.js)
+[8/18/2021 19:20:54] Commande chargée : event (./commands/admin/event.js)
+[8/18/2021 19:20:54] Commande chargée : mute (./commands/admin/mute.js)
+[8/18/2021 19:20:54] Commande chargée : prefix (./commands/admin/prefix.js)
+[8/18/2021 19:20:54] Commande chargée : sondage (./commands/admin/sondage.js)
+[8/18/2021 19:20:54] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[8/18/2021 19:20:54] Commande chargée : unmute (./commands/admin/unmute.js)
+[8/18/2021 19:20:54] Commande chargée : help (./commands/divers/help.js)
+[8/18/2021 19:20:54] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[8/18/2021 19:20:54] Commande chargée : link (./commands/divers/link.js)
+[8/18/2021 19:20:54] Commande chargée : note (./commands/divers/note.js)
+[8/18/2021 19:20:54] Commande chargée : ping (./commands/divers/ping.js)
+[8/18/2021 19:20:54] Commande chargée : repeat (./commands/divers/repeat.js)
+[8/18/2021 19:20:54] Commande chargée : vocal (./commands/divers/vocal.js)
+[8/18/2021 19:20:55] Bot identifié en tant que @RemsBot#7582 !
+[8/18/2021 19:21:09] Commande ?link exécuter par @Rem's 38#3180
+[8/19/2021 22:16:46] Update : Membre +
+[8/20/2021 06:32:11] Update : Membre +
+[8/20/2021 06:44:28] Update : Membre +
+[8/20/2021 14:58:19] Update : Membre -
+[8/20/2021 16:04:23] Event PotM : @Whisperer#3733 a envoyé une prod
+[8/20/2021 16:05:19] Event PotM : @Whisperer#3733 a envoyé une prod
+[8/20/2021 16:32:40] Event PotM : @Whisperer#3733 a envoyé une prod
+[8/20/2021 21:34:19] Event PotM : @SonWaverWuW#2568 a envoyé une prod
+[8/20/2021 21:34:23] Event PotM : @SonWaverWuW#2568 a envoyé une prod
+[8/20/2021 23:33:40] Update : Membre +
+[8/20/2021 23:35:06] Update : Membre -
+[8/21/2021 11:29:58] Update : Membre -
+[8/21/2021 15:21:40] Update : Membre +
+[8/21/2021 15:33:47] Update : Membre -
+[8/22/2021 09:54:41] Message dans #liens supprimé.
+Contenu : ""
+Utilisateur : @Paul¥#7519
+[8/22/2021 09:55:19] Message dans #liens supprimé.
+Contenu : ""
+Utilisateur : @Paul¥#7519
+[8/22/2021 09:55:44] Message dans #liens supprimé.
+Contenu : ""
+Utilisateur : @Paul¥#7519
+[8/22/2021 17:26:33] Event PotM : @XEBOS#2377 a envoyé une prod
+[8/22/2021 21:10:13] Update : Membre +
+[8/22/2021 21:13:44] Event PotM : @Shekad#4321 a envoyé une prod
+[8/22/2021 21:41:18] Update : Membre +
+[8/22/2021 21:57:02] Event PotM : @_leon_#0305 a envoyé une prod
+[8/22/2021 23:59:05] Event PotM : @_leon_#0305 a envoyé une prod
+[8/23/2021 07:26:36] Event PotM : Next par @Rem's 38#3180
+[8/23/2021 07:26:36] Commande ?event exécuter par @Rem's 38#3180
+[8/24/2021 05:21:45] Update : Membre -
+[8/24/2021 13:30:52] Commande ?link exécuter par @Wheedy Beats#5487
+[8/24/2021 17:33:54] Update : Membre +
+[8/25/2021 15:41:51] {TokenGrab} User kické
+[8/25/2021 15:41:51] Update : Membre -
+[8/26/2021 13:25:30] Update : Membre +
+[8/27/2021 00:14:43] Update : Membre +
+[8/27/2021 22:09:07] Update : Membre +
+[8/28/2021 13:21:42] Message dans #liens supprimé.
+Contenu : "le mdp ?"
+Utilisateur : @lawboy#8089
+[8/28/2021 21:44:12] Update : Membre +
+[8/28/2021 21:54:05] Update : Membre +
+[8/28/2021 22:31:19] Update : Membre +
+[8/29/2021 15:00:54] Update : Membre +
+[8/29/2021 16:57:34] Update : Membre -
+[8/29/2021 20:06:38] Update : Membre +
+[8/29/2021 23:35:36] Update : Membre +
+[8/30/2021 18:19:31] Update : Membre -
+[8/30/2021 20:53:16] Update : Membre -
+[8/31/2021 10:47:41] Update : Membre -
+[8/31/2021 17:30:36] Update : Membre +
+[8/31/2021 19:22:32] Update : Membre +
+[8/31/2021 20:37:56] Update : Membre -
+--------------------------------------------------------------------
+[9/3/2021 08:15:30] Commande chargée : clear (./commands/admin/clear.js)
+[9/3/2021 08:15:30] Commande chargée : event (./commands/admin/event.js)
+[9/3/2021 08:15:30] Commande chargée : mute (./commands/admin/mute.js)
+[9/3/2021 08:15:30] Commande chargée : prefix (./commands/admin/prefix.js)
+[9/3/2021 08:15:30] Commande chargée : sondage (./commands/admin/sondage.js)
+[9/3/2021 08:15:30] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[9/3/2021 08:15:30] Commande chargée : unmute (./commands/admin/unmute.js)
+[9/3/2021 08:15:30] Commande chargée : help (./commands/divers/help.js)
+[9/3/2021 08:15:30] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[9/3/2021 08:15:30] Commande chargée : link (./commands/divers/link.js)
+[9/3/2021 08:15:30] Commande chargée : note (./commands/divers/note.js)
+[9/3/2021 08:15:30] Commande chargée : ping (./commands/divers/ping.js)
+[9/3/2021 08:15:31] Commande chargée : repeat (./commands/divers/repeat.js)
+[9/3/2021 08:15:31] Commande chargée : vocal (./commands/divers/vocal.js)
+[9/3/2021 08:15:31] Bot identifié en tant que @RemsBot#7582 !
+[9/4/2021 05:32:47] Update : Membre +
+[9/4/2021 07:58:56] Commande ?link exécuter par @Rem's 38#3180
+[9/4/2021 14:38:07] {TokenGrab} User kické
+[9/4/2021 14:38:08] Update : Membre -
+[9/4/2021 14:38:56] Update : Membre +
+[9/4/2021 15:04:42] {TokenGrab} User kické
+[9/4/2021 15:04:42] Update : Membre -
+[9/4/2021 15:06:05] Update : Membre +
+[9/4/2021 15:18:21] {TokenGrab} User kické
+[9/4/2021 15:18:22] Update : Membre -
+[9/4/2021 15:19:27] Update : Membre +
+[9/4/2021 15:51:33] Update : Membre -
+[9/4/2021 19:06:51] Commande ?link exécuter par @Rem's 38#3180
+[9/4/2021 21:45:55] Message dans #liens supprimé.
+Contenu : ""
+Utilisateur : @Wheedy Beats#5487
+[9/5/2021 09:20:03] Event PotM : Stop par @Rem's 38#3180
+[9/5/2021 09:20:03] Commande ?event exécuter par @Rem's 38#3180
+[9/5/2021 20:10:14] Update : Membre +
+[9/5/2021 20:44:01] Update : Membre +
+[9/6/2021 10:06:59] Update : Membre -
+[9/6/2021 20:51:24] Commande ?clear exécuter par @Rem's 38#3180
+[9/6/2021 20:51:30] Commande ?clear exécuter par @Rem's 38#3180
+[9/6/2021 20:51:47] Commande ?clear exécuter par @Rem's 38#3180
+--------------------------------------------------------------------
+[9/6/2021 20:51:58] Commande chargée : clear (./commands/admin/clear.js)
+[9/6/2021 20:51:58] Commande chargée : event (./commands/admin/event.js)
+[9/6/2021 20:51:58] Commande chargée : mute (./commands/admin/mute.js)
+[9/6/2021 20:51:58] Commande chargée : prefix (./commands/admin/prefix.js)
+[9/6/2021 20:51:58] Commande chargée : sondage (./commands/admin/sondage.js)
+[9/6/2021 20:51:58] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[9/6/2021 20:51:58] Commande chargée : unmute (./commands/admin/unmute.js)
+[9/6/2021 20:51:58] Commande chargée : help (./commands/divers/help.js)
+[9/6/2021 20:51:58] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[9/6/2021 20:51:58] Commande chargée : link (./commands/divers/link.js)
+[9/6/2021 20:51:58] Commande chargée : note (./commands/divers/note.js)
+[9/6/2021 20:51:58] Commande chargée : ping (./commands/divers/ping.js)
+[9/6/2021 20:51:58] Commande chargée : repeat (./commands/divers/repeat.js)
+[9/6/2021 20:51:58] Commande chargée : vocal (./commands/divers/vocal.js)
+[9/6/2021 20:51:59] Bot identifié en tant que @RemsBot#7582 !
+[9/6/2021 20:53:38] Event PotM : Start par @Rem's 38#3180
+[9/6/2021 20:53:38] Commande ?event exécuter par @Rem's 38#3180
+[9/7/2021 02:07:27] Event PotM : Start par @Rem's 38#3180
+[9/7/2021 02:07:27] Commande ?event exécuter par @Rem's 38#3180
+[9/7/2021 12:49:29] Message dans #liens supprimé.
+Contenu : "<@!767936845157629992> bah justement, on a la même recherche, essaye ça (un crack de rems) : https://tube.nocturlab.fr/videos/watch/2851faf1-c00a-4577-adf0-b8aaa35f5011 (la vidéo)
+https://mega.nz/file/dgx01SyL#ioVpf4NAiim493SQ2_eg6RSXAf1JYxYKlJOvN4RSYpg (le crack)"
+Utilisateur : @Libidub#9312
+[9/7/2021 20:36:00] Update : Membre +
+[9/8/2021 00:38:00] Update : Membre +
+[9/8/2021 17:01:26] Update : Membre +
+[9/8/2021 17:15:57] Update : Membre -
+[9/8/2021 23:28:24] Update : Membre -
+[9/10/2021 09:27:06] Update : Membre -
+[9/10/2021 16:13:44] Update : Membre -
+[9/10/2021 19:35:08] Update : Membre +
+[9/10/2021 19:37:52] Commande ?link exécuter par @Wheedy Beats#5487
+[9/10/2021 21:09:12] Update : Membre -
+[9/11/2021 00:41:18] Update : Membre +
+[9/11/2021 02:56:01] Update : Membre +
+[9/11/2021 03:01:51] Message dans #liens supprimé.
+Contenu : "Bonsoir à tous svp j’ai lu qu’ici ils y avaient les liens des eq fabfilter autotune pro… ?"
+Utilisateur : @Brakmar#0395
+--------------------------------------------------------------------
+[9/11/2021 15:24:55] Commande chargée : clear (./commands/admin/clear.js)
+[9/11/2021 15:24:58] Commande chargée : event (./commands/admin/event.js)
+[9/11/2021 15:24:58] Commande chargée : mute (./commands/admin/mute.js)
+[9/11/2021 15:24:58] Commande chargée : prefix (./commands/admin/prefix.js)
+[9/11/2021 15:24:58] Commande chargée : sondage (./commands/admin/sondage.js)
+[9/11/2021 15:24:59] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[9/11/2021 15:24:59] Commande chargée : unmute (./commands/admin/unmute.js)
+[9/11/2021 15:24:59] Commande chargée : help (./commands/divers/help.js)
+[9/11/2021 15:24:59] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[9/11/2021 15:24:59] Commande chargée : link (./commands/divers/link.js)
+[9/11/2021 15:24:59] Commande chargée : note (./commands/divers/note.js)
+[9/11/2021 15:24:59] Commande chargée : ping (./commands/divers/ping.js)
+[9/11/2021 15:24:59] Commande chargée : repeat (./commands/divers/repeat.js)
+[9/11/2021 15:24:59] Commande chargée : vocal (./commands/divers/vocal.js)
+[9/11/2021 15:25:00] Bot identifié en tant que @RemsBot#7582 !
+[9/12/2021 02:24:07] Update : Membre +
+[9/12/2021 11:59:31] Update : Membre +
+[9/12/2021 18:51:45] Update : Membre +
+[9/12/2021 19:14:08] Update : Membre +
+[9/12/2021 20:53:58] Update : Membre +
+[9/12/2021 21:14:45] Update : Membre -
+--------------------------------------------------------------------
+[9/14/2021 18:46:35] Commande chargée : clear (./commands/admin/clear.js)
+[9/14/2021 18:46:35] Commande chargée : event (./commands/admin/event.js)
+[9/14/2021 18:46:35] Commande chargée : mute (./commands/admin/mute.js)
+[9/14/2021 18:46:35] Commande chargée : prefix (./commands/admin/prefix.js)
+[9/14/2021 18:46:35] Commande chargée : sondage (./commands/admin/sondage.js)
+[9/14/2021 18:46:35] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[9/14/2021 18:46:35] Commande chargée : unmute (./commands/admin/unmute.js)
+[9/14/2021 18:46:35] Commande chargée : help (./commands/divers/help.js)
+[9/14/2021 18:46:35] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[9/14/2021 18:46:35] Commande chargée : link (./commands/divers/link.js)
+[9/14/2021 18:46:35] Commande chargée : note (./commands/divers/note.js)
+[9/14/2021 18:46:35] Commande chargée : ping (./commands/divers/ping.js)
+[9/14/2021 18:46:35] Commande chargée : repeat (./commands/divers/repeat.js)
+[9/14/2021 18:46:35] Commande chargée : vocal (./commands/divers/vocal.js)
+[9/14/2021 18:46:38] Bot identifié en tant que @RemsBot#7582 !
+[9/14/2021 18:46:51] Commande ?link exécuter par @Rem's 38#3180
+[9/14/2021 22:17:40] Update : Membre +
+[9/14/2021 23:27:10] Update : Membre -
+[9/15/2021 21:25:12] Commande ?link exécuter par @Rem's 38#3180
+[9/16/2021 11:41:14] Update : Membre -
+[9/16/2021 15:23:35] Update : Membre +
+[9/17/2021 23:06:49] Update : Membre -
+[9/18/2021 07:58:48] Event PotM : @kyllian#3872 a envoyé une prod
+[9/18/2021 09:15:10] Event PotM : @SonWaverWuW#2568 a envoyé une prod
+[9/18/2021 09:15:28] Event PotM : @SonWaverWuW#2568 a envoyé une prod
+[9/18/2021 09:15:52] Event PotM : @SonWaverWuW#2568 a envoyé une prod
+[9/18/2021 18:00:20] Commande ?link exécuter par @Rem's 38#3180
+[9/18/2021 18:52:14] Message dans #liens supprimé.
+Contenu : "Quelqu’un a un lieu crack pour half time"
+Utilisateur : @Seryxa#5550
+[9/18/2021 19:03:00] Update : Membre -
+[9/18/2021 19:17:17] Update : Membre +
+[9/19/2021 00:25:05] Update : Membre +
+[9/19/2021 11:08:44] Update : Membre +
+[9/19/2021 11:41:36] Update : Membre +
+[9/19/2021 13:40:05] Update : Membre -
+[9/19/2021 18:33:15] Update : Membre +
+[9/19/2021 21:15:44] Update : Membre -
+[9/20/2021 12:56:47] Event PotM : Next par @Rem's 38#3180
+[9/20/2021 12:56:47] Commande ?event exécuter par @Rem's 38#3180
+[9/20/2021 22:00:06] Update : Membre -
+[9/21/2021 11:20:06] Commande ?link exécuter par @Rem's 38#3180
+[9/21/2021 15:11:12] Update : Membre +
+[9/21/2021 15:17:08] Update : Membre +
+[9/21/2021 17:27:09] Commande ?link exécuter par @Rem's 38#3180
+[9/22/2021 09:09:53] Update : Membre -
+[9/22/2021 15:01:00] Update : Membre +
+--------------------------------------------------------------------
+[9/22/2021 20:59:15] Commande chargée : clear (./commands/admin/clear.js)
+[9/22/2021 20:59:15] Commande chargée : event (./commands/admin/event.js)
+[9/22/2021 20:59:15] Commande chargée : mute (./commands/admin/mute.js)
+[9/22/2021 20:59:15] Commande chargée : prefix (./commands/admin/prefix.js)
+[9/22/2021 20:59:15] Commande chargée : sondage (./commands/admin/sondage.js)
+[9/22/2021 20:59:15] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[9/22/2021 20:59:15] Commande chargée : unmute (./commands/admin/unmute.js)
+[9/22/2021 20:59:15] Commande chargée : help (./commands/divers/help.js)
+[9/22/2021 20:59:15] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[9/22/2021 20:59:15] Commande chargée : link (./commands/divers/link.js)
+[9/22/2021 20:59:15] Commande chargée : note (./commands/divers/note.js)
+[9/22/2021 20:59:15] Commande chargée : ping (./commands/divers/ping.js)
+[9/22/2021 20:59:15] Commande chargée : repeat (./commands/divers/repeat.js)
+[9/22/2021 20:59:15] Commande chargée : vocal (./commands/divers/vocal.js)
+[9/22/2021 20:59:15] Bot identifié en tant que @RemsBot#7582 !
+[9/22/2021 20:59:29] Commande ?help exécuter par @Rem's 38#3180
+[9/22/2021 20:59:31] Commande ?link exécuter par @Rem's 38#3180
+[9/22/2021 20:59:40] Commande ?clear exécuter par @Rem's 38#3180
+[9/23/2021 03:24:31] Update : Membre -
+[9/23/2021 03:28:08] Update : Membre +
+[9/23/2021 03:29:20] Update : Membre -
+[9/23/2021 11:03:45] Update : Membre +
+[9/23/2021 17:34:15] Commande ?help exécuter par @Rem's 38#3180
+[9/23/2021 17:34:19] Commande ?link exécuter par @Rem's 38#3180
+--------------------------------------------------------------------
+[9/23/2021 17:48:48] Commande chargée : clear (./commands/admin/clear.js)
+[9/23/2021 17:48:48] Commande chargée : event (./commands/admin/event.js)
+[9/23/2021 17:48:48] Commande chargée : mute (./commands/admin/mute.js)
+[9/23/2021 17:48:48] Commande chargée : prefix (./commands/admin/prefix.js)
+[9/23/2021 17:48:48] Commande chargée : sondage (./commands/admin/sondage.js)
+[9/23/2021 17:48:48] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[9/23/2021 17:48:48] Commande chargée : unmute (./commands/admin/unmute.js)
+[9/23/2021 17:48:48] Commande chargée : help (./commands/divers/help.js)
+[9/23/2021 17:48:48] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[9/23/2021 17:48:48] Commande chargée : link (./commands/divers/link.js)
+[9/23/2021 17:48:48] Commande chargée : note (./commands/divers/note.js)
+[9/23/2021 17:48:48] Commande chargée : ping (./commands/divers/ping.js)
+[9/23/2021 17:48:48] Commande chargée : repeat (./commands/divers/repeat.js)
+[9/23/2021 17:48:48] Commande chargée : vocal (./commands/divers/vocal.js)
+[9/23/2021 17:48:49] Bot identifié en tant que @RemsBot#7582 !
+--------------------------------------------------------------------
+[24/04/2022 13:34:15] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 13:34:15] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 13:34:15] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 13:34:15] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 13:34:15] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 13:34:15] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 13:34:15] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 13:34:15] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 13:34:15] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 13:34:15] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 13:34:15] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 13:34:15] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 13:34:15] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 13:34:15] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 13:34:17] Bot identifié en tant que @RemsBot#7582 !
+--------------------------------------------------------------------
+[24/04/2022 13:40:17] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 13:40:17] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 13:40:17] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 13:40:17] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 13:40:17] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 13:40:17] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 13:40:17] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 13:40:17] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 13:40:17] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 13:40:17] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 13:40:17] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 13:40:17] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 13:40:17] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 13:40:17] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 13:40:18] Bot identifié en tant que @RemsBot#7582 !
+--------------------------------------------------------------------
+[24/04/2022 13:41:13] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 13:41:13] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 13:41:13] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 13:41:13] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 13:41:13] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 13:41:13] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 13:41:13] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 13:41:13] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 13:41:13] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 13:41:13] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 13:41:13] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 13:41:13] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 13:41:13] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 13:41:13] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 13:41:14] Bot identifié en tant que @RemsBot#7582 !
+[24/04/2022 13:41:21] Commande ?event exécuter par @Rem's 38#3180
+[24/04/2022 13:42:43] Update : Membre -
+--------------------------------------------------------------------
+[24/04/2022 13:46:03] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 13:46:03] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 13:46:03] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 13:46:03] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 13:46:03] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 13:46:03] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 13:46:03] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 13:46:03] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 13:46:03] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 13:46:03] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 13:46:03] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 13:46:03] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 13:46:03] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 13:46:03] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 13:46:04] Bot identifié en tant que @RemsBot#7582 !
+[24/04/2022 13:47:12] Commande ?event exécuter par @Rem's 38#3180
+--------------------------------------------------------------------
+[24/04/2022 13:47:40] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 13:47:40] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 13:47:40] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 13:47:40] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 13:47:40] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 13:47:40] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 13:47:40] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 13:47:40] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 13:47:40] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 13:47:40] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 13:47:40] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 13:47:40] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 13:47:40] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 13:47:40] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 13:47:41] Bot identifié en tant que @RemsBot#7582 !
+[24/04/2022 13:48:54] Commande ?event exécuter par @Rem's 38#3180
+--------------------------------------------------------------------
+[24/04/2022 13:58:02] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 13:58:02] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 13:58:02] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 13:58:02] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 13:58:02] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 13:58:02] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 13:58:02] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 13:58:02] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 13:58:02] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 13:58:02] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 13:58:02] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 13:58:02] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 13:58:02] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 13:58:02] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 13:58:05] Bot identifié en tant que @RemsBot#7582 !
+[24/04/2022 14:00:47] Commande ?event exécuter par @Rem's 38#3180
+--------------------------------------------------------------------
+[24/04/2022 14:05:28] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 14:05:28] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 14:05:28] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 14:05:28] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 14:05:28] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 14:05:28] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 14:05:28] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 14:05:28] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 14:05:28] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 14:05:28] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 14:05:28] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 14:05:28] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 14:05:28] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 14:05:28] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 14:05:29] Bot identifié en tant que @RemsBot#7582 !
+[24/04/2022 14:05:36] Commande ?event exécuter par @Rem's 38#3180
+--------------------------------------------------------------------
+[24/04/2022 14:07:27] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 14:07:27] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 14:07:27] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 14:07:27] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 14:07:27] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 14:07:27] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 14:07:27] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 14:07:27] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 14:07:27] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 14:07:27] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 14:07:27] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 14:07:27] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 14:07:27] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 14:07:27] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 14:07:28] Bot identifié en tant que @RemsBot#7582 !
+--------------------------------------------------------------------
+[24/04/2022 14:07:50] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 14:07:50] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 14:07:50] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 14:07:50] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 14:07:50] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 14:07:50] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 14:07:50] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 14:07:50] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 14:07:50] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 14:07:50] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 14:07:50] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 14:07:50] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 14:07:50] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 14:07:50] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 14:07:51] Bot identifié en tant que @RemsBot#7582 !
+[24/04/2022 14:07:57] Commande ?event exécuter par @Rem's 38#3180
+--------------------------------------------------------------------
+[24/04/2022 14:08:23] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 14:08:23] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 14:08:23] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 14:08:23] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 14:08:23] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 14:08:23] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 14:08:23] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 14:08:23] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 14:08:23] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 14:08:23] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 14:08:23] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 14:08:23] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 14:08:23] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 14:08:23] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 14:08:24] Bot identifié en tant que @RemsBot#7582 !
+[24/04/2022 14:08:29] Commande ?event exécuter par @Rem's 38#3180
+--------------------------------------------------------------------
+[24/04/2022 14:15:01] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 14:15:01] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 14:15:01] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 14:15:01] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 14:15:01] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 14:15:01] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 14:15:01] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 14:15:01] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 14:15:01] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 14:15:01] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 14:15:01] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 14:15:01] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 14:15:01] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 14:15:01] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 14:15:02] Bot identifié en tant que @RemsBot#7582 !
+--------------------------------------------------------------------
+[24/04/2022 14:15:27] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 14:15:27] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 14:15:27] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 14:15:27] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 14:15:27] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 14:15:27] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 14:15:27] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 14:15:27] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 14:15:27] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 14:15:27] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 14:15:27] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 14:15:27] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 14:15:27] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 14:15:27] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 14:15:28] Bot identifié en tant que @RemsBot#7582 !
+[24/04/2022 14:15:33] Commande ?event exécuter par @Rem's 38#3180
+--------------------------------------------------------------------
+[24/04/2022 14:16:36] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 14:16:36] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 14:16:36] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 14:16:36] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 14:16:36] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 14:16:36] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 14:16:36] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 14:16:36] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 14:16:36] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 14:16:36] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 14:16:36] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 14:16:36] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 14:16:36] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 14:16:36] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 14:16:37] Bot identifié en tant que @RemsBot#7582 !
+[24/04/2022 14:16:56] Commande ?event exécuter par @Rem's 38#3180
+--------------------------------------------------------------------
+[24/04/2022 14:17:19] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 14:17:19] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 14:17:19] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 14:17:19] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 14:17:19] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 14:17:19] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 14:17:19] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 14:17:19] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 14:17:19] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 14:17:19] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 14:17:19] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 14:17:19] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 14:17:19] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 14:17:19] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 14:17:20] Bot identifié en tant que @RemsBot#7582 !
+[24/04/2022 14:17:26] Commande ?event exécuter par @Rem's 38#3180
+--------------------------------------------------------------------
+[24/04/2022 14:18:25] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 14:18:25] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 14:18:25] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 14:18:25] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 14:18:25] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 14:18:25] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 14:18:25] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 14:18:25] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 14:18:25] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 14:18:25] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 14:18:25] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 14:18:25] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 14:18:25] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 14:18:25] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 14:18:26] Bot identifié en tant que @RemsBot#7582 !
+[24/04/2022 14:18:32] Commande ?event exécuter par @Rem's 38#3180
+--------------------------------------------------------------------
+[24/04/2022 14:21:01] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 14:21:01] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 14:21:01] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 14:21:01] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 14:21:01] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 14:21:01] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 14:21:01] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 14:21:01] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 14:21:01] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 14:21:01] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 14:21:01] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 14:21:01] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 14:21:01] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 14:21:01] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 14:21:02] Bot identifié en tant que @RemsBot#7582 !
+[24/04/2022 14:21:07] Commande ?event exécuter par @Rem's 38#3180
+--------------------------------------------------------------------
+[24/04/2022 14:22:00] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 14:22:00] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 14:22:00] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 14:22:00] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 14:22:00] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 14:22:00] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 14:22:00] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 14:22:00] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 14:22:00] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 14:22:00] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 14:22:00] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 14:22:00] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 14:22:00] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 14:22:00] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 14:22:01] Bot identifié en tant que @RemsBot#7582 !
+[24/04/2022 14:22:06] Commande ?event exécuter par @Rem's 38#3180
+--------------------------------------------------------------------
+[24/04/2022 14:24:01] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 14:24:01] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 14:24:01] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 14:24:01] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 14:24:01] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 14:24:01] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 14:24:01] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 14:24:01] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 14:24:01] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 14:24:01] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 14:24:01] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 14:24:01] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 14:24:01] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 14:24:01] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 14:24:04] Bot identifié en tant que @RemsBot#7582 !
+[24/04/2022 14:24:12] Commande ?event exécuter par @Rem's 38#3180
+--------------------------------------------------------------------
+[24/04/2022 14:25:00] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 14:25:00] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 14:25:00] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 14:25:00] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 14:25:00] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 14:25:00] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 14:25:00] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 14:25:00] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 14:25:00] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 14:25:00] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 14:25:00] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 14:25:00] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 14:25:00] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 14:25:00] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 14:25:02] Bot identifié en tant que @RemsBot#7582 !
+[24/04/2022 14:25:09] Commande ?event exécuter par @Rem's 38#3180
+[24/04/2022 14:25:19] Commande ?clear exécuter par @Rem's 38#3180
+[24/04/2022 14:25:38] Commande ?clear exécuter par @Rem's 38#3180
+--------------------------------------------------------------------
+[24/04/2022 14:42:25] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 14:42:25] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 14:42:25] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 14:42:25] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 14:42:25] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 14:42:25] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 14:42:25] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 14:42:25] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 14:42:25] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 14:42:25] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 14:42:25] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 14:42:25] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 14:42:25] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 14:42:25] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 14:42:27] Bot identifié en tant que @RemsBot#7582 !
+[24/04/2022 14:42:33] Commande ?event exécuter par @Rem's 38#3180
+--------------------------------------------------------------------
+[24/04/2022 14:43:50] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 14:43:50] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 14:43:50] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 14:43:50] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 14:43:50] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 14:43:50] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 14:43:50] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 14:43:50] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 14:43:50] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 14:43:50] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 14:43:50] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 14:43:50] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 14:43:50] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 14:43:50] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 14:43:51] Bot identifié en tant que @RemsBot#7582 !
+[24/04/2022 14:43:57] Commande ?event exécuter par @Rem's 38#3180
+--------------------------------------------------------------------
+[24/04/2022 14:47:05] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 14:47:05] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 14:47:05] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 14:47:05] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 14:47:05] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 14:47:05] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 14:47:05] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 14:47:05] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 14:47:05] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 14:47:05] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 14:47:05] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 14:47:05] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 14:47:05] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 14:47:05] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 14:47:07] Bot identifié en tant que @RemsBot#7582 !
+[24/04/2022 14:47:14] Commande ?event exécuter par @Rem's 38#3180
+--------------------------------------------------------------------
+[24/04/2022 14:49:28] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 14:49:28] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 14:49:28] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 14:49:28] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 14:49:28] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 14:49:28] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 14:49:28] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 14:49:28] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 14:49:28] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 14:49:28] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 14:49:28] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 14:49:28] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 14:49:28] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 14:49:28] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 14:49:30] Bot identifié en tant que @RemsBot#7582 !
+[24/04/2022 14:49:35] Commande ?event exécuter par @Rem's 38#3180
+--------------------------------------------------------------------
+[24/04/2022 14:49:55] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 14:49:55] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 14:49:55] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 14:49:55] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 14:49:55] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 14:49:55] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 14:49:55] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 14:49:55] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 14:49:55] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 14:49:55] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 14:49:55] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 14:49:55] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 14:49:55] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 14:49:55] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 14:49:57] Bot identifié en tant que @RemsBot#7582 !
+[24/04/2022 14:50:03] Commande ?event exécuter par @Rem's 38#3180
+[24/04/2022 14:50:20] Commande ?clear exécuter par @Rem's 38#3180
+--------------------------------------------------------------------
+[24/04/2022 14:52:05] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 14:52:05] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 14:52:05] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 14:52:05] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 14:52:05] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 14:52:05] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 14:52:05] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 14:52:05] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 14:52:05] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 14:52:05] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 14:52:05] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 14:52:05] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 14:52:05] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 14:52:05] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 14:52:06] Bot identifié en tant que @RemsBot#7582 !
+[24/04/2022 14:52:13] Commande ?event exécuter par @Rem's 38#3180
+--------------------------------------------------------------------
+[24/04/2022 14:52:58] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 14:52:58] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 14:52:58] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 14:52:58] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 14:52:58] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 14:52:58] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 14:52:58] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 14:52:58] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 14:52:58] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 14:52:58] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 14:52:58] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 14:52:58] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 14:52:58] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 14:52:58] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 14:52:59] Bot identifié en tant que @RemsBot#7582 !
+[24/04/2022 14:53:06] Commande ?event exécuter par @Rem's 38#3180
+--------------------------------------------------------------------
+[24/04/2022 14:53:36] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 14:53:36] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 14:53:36] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 14:53:36] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 14:53:36] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 14:53:36] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 14:53:36] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 14:53:36] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 14:53:36] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 14:53:36] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 14:53:36] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 14:53:36] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 14:53:36] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 14:53:36] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 14:53:38] Bot identifié en tant que @RemsBot#7582 !
+[24/04/2022 14:53:45] Commande ?event exécuter par @Rem's 38#3180
+--------------------------------------------------------------------
+[24/04/2022 14:54:04] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 14:54:04] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 14:54:04] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 14:54:04] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 14:54:04] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 14:54:04] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 14:54:04] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 14:54:04] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 14:54:04] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 14:54:04] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 14:54:04] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 14:54:04] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 14:54:04] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 14:54:04] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 14:54:05] Bot identifié en tant que @RemsBot#7582 !
+[24/04/2022 14:54:13] Commande ?event exécuter par @Rem's 38#3180
+--------------------------------------------------------------------
+[24/04/2022 15:10:48] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 15:10:48] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 15:10:48] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 15:10:48] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 15:10:48] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 15:10:48] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 15:10:48] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 15:10:48] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 15:10:48] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 15:10:48] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 15:10:48] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 15:10:48] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 15:10:48] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 15:10:48] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 15:10:50] Bot identifié en tant que @RemsBot#7582 !
+--------------------------------------------------------------------
+[24/04/2022 15:12:51] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 15:12:51] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 15:12:51] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 15:12:51] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 15:12:51] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 15:12:51] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 15:12:51] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 15:12:51] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 15:12:51] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 15:12:51] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 15:12:51] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 15:12:51] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 15:12:51] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 15:12:51] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 15:12:53] Bot identifié en tant que @RemsBot#7582 !
+--------------------------------------------------------------------
+[24/04/2022 15:14:34] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 15:14:34] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 15:14:34] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 15:14:34] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 15:14:34] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 15:14:34] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 15:14:34] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 15:14:34] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 15:14:34] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 15:14:34] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 15:14:34] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 15:14:34] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 15:14:34] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 15:14:34] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 15:14:35] Bot identifié en tant que @RemsBot#7582 !
+--------------------------------------------------------------------
+[24/04/2022 15:15:00] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 15:15:00] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 15:15:00] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 15:15:00] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 15:15:00] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 15:15:00] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 15:15:00] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 15:15:00] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 15:15:00] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 15:15:00] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 15:15:00] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 15:15:00] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 15:15:00] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 15:15:00] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 15:15:02] Bot identifié en tant que @RemsBot#7582 !
+[24/04/2022 15:15:10] Commande ?event exécuter par @Rem's 38#3180
+--------------------------------------------------------------------
+[24/04/2022 15:17:13] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 15:17:13] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 15:17:13] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 15:17:13] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 15:17:13] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 15:17:13] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 15:17:13] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 15:17:13] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 15:17:13] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 15:17:13] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 15:17:13] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 15:17:13] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 15:17:13] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 15:17:13] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 15:17:14] Bot identifié en tant que @RemsBot#7582 !
+[24/04/2022 15:17:20] Commande ?event exécuter par @Rem's 38#3180
+--------------------------------------------------------------------
+[24/04/2022 15:19:36] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 15:19:36] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 15:19:36] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 15:19:36] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 15:19:36] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 15:19:36] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 15:19:36] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 15:19:36] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 15:19:36] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 15:19:36] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 15:19:36] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 15:19:36] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 15:19:36] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 15:19:36] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 15:19:37] Bot identifié en tant que @RemsBot#7582 !
+[24/04/2022 15:19:49] Commande ?event exécuter par @Rem's 38#3180
+--------------------------------------------------------------------
+[24/04/2022 15:21:51] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 15:21:51] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 15:21:51] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 15:21:51] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 15:21:51] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 15:21:51] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 15:21:51] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 15:21:51] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 15:21:51] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 15:21:51] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 15:21:51] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 15:21:51] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 15:21:51] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 15:21:51] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 15:21:52] Bot identifié en tant que @RemsBot#7582 !
+[24/04/2022 15:21:58] Commande ?event exécuter par @Rem's 38#3180
+--------------------------------------------------------------------
+[24/04/2022 15:23:36] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 15:23:36] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 15:23:36] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 15:23:36] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 15:23:36] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 15:23:36] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 15:23:36] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 15:23:36] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 15:23:36] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 15:23:36] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 15:23:36] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 15:23:36] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 15:23:36] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 15:23:36] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 15:23:38] Bot identifié en tant que @RemsBot#7582 !
+[24/04/2022 15:23:44] Commande ?event exécuter par @Rem's 38#3180
+--------------------------------------------------------------------
+[24/04/2022 15:24:19] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 15:24:19] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 15:24:19] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 15:24:19] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 15:24:19] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 15:24:19] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 15:24:19] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 15:24:19] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 15:24:19] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 15:24:19] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 15:24:19] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 15:24:19] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 15:24:19] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 15:24:19] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 15:24:20] Bot identifié en tant que @RemsBot#7582 !
+[24/04/2022 15:24:28] Commande ?event exécuter par @Rem's 38#3180
+--------------------------------------------------------------------
+[24/04/2022 15:25:08] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 15:25:08] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 15:25:08] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 15:25:08] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 15:25:08] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 15:25:08] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 15:25:08] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 15:25:08] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 15:25:08] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 15:25:08] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 15:25:08] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 15:25:08] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 15:25:08] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 15:25:08] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 15:25:10] Bot identifié en tant que @RemsBot#7582 !
+[24/04/2022 15:25:17] Commande ?event exécuter par @Rem's 38#3180
+--------------------------------------------------------------------
+[24/04/2022 15:29:03] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 15:29:03] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 15:29:03] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 15:29:03] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 15:29:03] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 15:29:03] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 15:29:03] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 15:29:03] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 15:29:03] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 15:29:03] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 15:29:03] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 15:29:03] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 15:29:03] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 15:29:03] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 15:29:05] Bot identifié en tant que @RemsBot#7582 !
+[24/04/2022 15:29:13] Commande ?event exécuter par @Rem's 38#3180
+[24/04/2022 15:30:21] Commande ?clear exécuter par @Rem's 38#3180
+--------------------------------------------------------------------
+[24/04/2022 16:23:34] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 16:23:34] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 16:23:34] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 16:23:34] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 16:23:34] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 16:23:34] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 16:23:34] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 16:23:34] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 16:23:34] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 16:23:34] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 16:23:34] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 16:23:34] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 16:23:34] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 16:23:34] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 16:23:36] Bot identifié en tant que @RemsBot#7582 !
+--------------------------------------------------------------------
+[24/04/2022 16:24:06] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 16:24:06] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 16:24:06] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 16:24:06] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 16:24:06] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 16:24:06] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 16:24:06] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 16:24:06] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 16:24:06] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 16:24:06] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 16:24:06] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 16:24:06] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 16:24:06] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 16:24:06] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 16:24:08] Bot identifié en tant que @RemsBot#7582 !
+[24/04/2022 16:24:13] Commande ?event exécuter par @Rem's 38#3180
+--------------------------------------------------------------------
+[24/04/2022 16:24:40] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 16:24:40] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 16:24:40] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 16:24:40] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 16:24:40] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 16:24:40] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 16:24:40] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 16:24:40] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 16:24:40] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 16:24:40] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 16:24:40] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 16:24:40] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 16:24:40] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 16:24:40] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 16:24:41] Bot identifié en tant que @RemsBot#7582 !
+[24/04/2022 16:24:46] Commande ?event exécuter par @Rem's 38#3180
+--------------------------------------------------------------------
+[24/04/2022 16:25:03] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 16:25:03] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 16:25:03] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 16:25:03] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 16:25:03] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 16:25:03] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 16:25:03] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 16:25:03] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 16:25:03] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 16:25:03] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 16:25:03] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 16:25:03] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 16:25:03] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 16:25:03] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 16:25:04] Bot identifié en tant que @RemsBot#7582 !
+[24/04/2022 16:35:03] Commande ?event exécuter par @Rem's 38#3180
+--------------------------------------------------------------------
+[24/04/2022 16:37:05] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 16:37:05] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 16:37:05] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 16:37:05] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 16:37:05] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 16:37:05] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 16:37:05] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 16:37:05] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 16:37:05] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 16:37:05] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 16:37:05] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 16:37:05] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 16:37:05] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 16:37:05] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 16:37:06] Bot identifié en tant que @RemsBot#7582 !
+[24/04/2022 16:37:19] Commande ?event exécuter par @Rem's 38#3180
+--------------------------------------------------------------------
+[24/04/2022 16:39:29] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 16:39:29] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 16:39:29] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 16:39:29] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 16:39:29] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 16:39:29] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 16:39:29] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 16:39:29] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 16:39:29] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 16:39:29] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 16:39:29] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 16:39:29] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 16:39:29] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 16:39:29] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 16:39:30] Bot identifié en tant que @RemsBot#7582 !
+[24/04/2022 16:39:36] Commande ?event exécuter par @Rem's 38#3180
+--------------------------------------------------------------------
+[24/04/2022 16:40:44] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 16:40:45] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 16:40:45] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 16:40:45] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 16:40:45] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 16:40:45] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 16:40:45] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 16:40:45] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 16:40:45] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 16:40:45] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 16:40:45] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 16:40:45] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 16:40:45] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 16:40:45] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 16:40:47] Bot identifié en tant que @RemsBot#7582 !
+[24/04/2022 16:40:54] Commande ?event exécuter par @Rem's 38#3180
+--------------------------------------------------------------------
+[24/04/2022 16:43:15] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 16:43:15] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 16:43:15] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 16:43:15] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 16:43:15] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 16:43:15] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 16:43:15] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 16:43:15] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 16:43:15] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 16:43:15] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 16:43:15] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 16:43:15] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 16:43:15] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 16:43:15] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 16:43:17] Bot identifié en tant que @RemsBot#7582 !
+--------------------------------------------------------------------
+[24/04/2022 16:43:55] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 16:43:55] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 16:43:55] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 16:43:55] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 16:43:55] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 16:43:55] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 16:43:55] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 16:43:55] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 16:43:55] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 16:43:55] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 16:43:55] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 16:43:55] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 16:43:55] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 16:43:55] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 16:43:57] Bot identifié en tant que @RemsBot#7582 !
+[24/04/2022 16:44:03] Commande ?event exécuter par @Rem's 38#3180
+--------------------------------------------------------------------
+[24/04/2022 16:44:26] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 16:44:26] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 16:44:26] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 16:44:26] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 16:44:26] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 16:44:26] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 16:44:26] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 16:44:26] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 16:44:26] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 16:44:26] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 16:44:26] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 16:44:26] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 16:44:26] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 16:44:26] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 16:44:27] Bot identifié en tant que @RemsBot#7582 !
+--------------------------------------------------------------------
+[24/04/2022 16:44:52] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 16:44:52] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 16:44:52] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 16:44:52] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 16:44:52] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 16:44:52] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 16:44:52] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 16:44:52] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 16:44:52] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 16:44:52] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 16:44:52] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 16:44:52] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 16:44:52] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 16:44:52] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 16:44:53] Bot identifié en tant que @RemsBot#7582 !
+[24/04/2022 16:45:00] Commande ?event exécuter par @Rem's 38#3180
+--------------------------------------------------------------------
+[24/04/2022 16:45:19] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 16:45:19] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 16:45:19] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 16:45:19] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 16:45:19] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 16:45:19] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 16:45:19] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 16:45:20] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 16:45:20] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 16:45:20] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 16:45:20] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 16:45:20] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 16:45:20] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 16:45:20] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 16:45:21] Bot identifié en tant que @RemsBot#7582 !
+[24/04/2022 16:45:29] Commande ?event exécuter par @Rem's 38#3180
+--------------------------------------------------------------------
+[24/04/2022 16:46:39] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 16:46:39] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 16:46:39] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 16:46:39] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 16:46:39] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 16:46:39] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 16:46:39] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 16:46:39] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 16:46:39] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 16:46:39] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 16:46:39] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 16:46:39] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 16:46:39] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 16:46:39] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 16:46:41] Bot identifié en tant que @RemsBot#7582 !
+[24/04/2022 16:46:49] Commande ?event exécuter par @Rem's 38#3180
+--------------------------------------------------------------------
+[24/04/2022 16:47:13] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 16:47:13] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 16:47:13] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 16:47:13] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 16:47:13] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 16:47:13] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 16:47:13] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 16:47:13] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 16:47:13] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 16:47:13] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 16:47:13] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 16:47:13] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 16:47:13] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 16:47:13] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 16:47:14] Bot identifié en tant que @RemsBot#7582 !
+[24/04/2022 16:47:22] Commande ?event exécuter par @Rem's 38#3180
+--------------------------------------------------------------------
+[24/04/2022 16:49:07] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 16:49:07] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 16:49:07] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 16:49:07] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 16:49:07] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 16:49:07] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 16:49:07] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 16:49:07] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 16:49:07] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 16:49:07] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 16:49:07] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 16:49:07] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 16:49:07] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 16:49:07] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 16:49:08] Bot identifié en tant que @RemsBot#7582 !
+[24/04/2022 16:49:19] Commande ?event exécuter par @Rem's 38#3180
+--------------------------------------------------------------------
+[24/04/2022 16:52:15] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 16:52:15] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 16:52:15] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 16:52:15] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 16:52:15] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 16:52:15] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 16:52:15] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 16:52:15] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 16:52:15] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 16:52:15] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 16:52:15] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 16:52:15] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 16:52:15] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 16:52:15] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 16:52:16] Bot identifié en tant que @RemsBot#7582 !
+[24/04/2022 16:52:24] Commande ?event exécuter par @Rem's 38#3180
+--------------------------------------------------------------------
+[24/04/2022 17:56:43] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 17:56:43] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 17:56:43] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 17:56:43] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 17:56:43] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 17:56:43] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 17:56:43] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 17:56:43] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 17:56:43] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 17:56:43] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 17:56:43] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 17:56:43] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 17:56:43] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 17:56:43] Commande chargée : vocal (./commands/divers/vocal.js)
+--------------------------------------------------------------------
+[24/04/2022 17:57:50] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 17:57:50] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 17:57:50] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 17:57:50] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 17:57:50] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 17:57:50] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 17:57:50] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 17:57:50] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 17:57:50] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 17:57:50] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 17:57:50] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 17:57:50] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 17:57:50] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 17:57:50] Commande chargée : vocal (./commands/divers/vocal.js)
+--------------------------------------------------------------------
+[24/04/2022 17:57:56] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 17:57:56] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 17:57:56] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 17:57:56] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 17:57:56] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 17:57:56] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 17:57:56] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 17:57:56] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 17:57:56] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 17:57:56] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 17:57:56] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 17:57:56] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 17:57:56] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 17:57:56] Commande chargée : vocal (./commands/divers/vocal.js)
+--------------------------------------------------------------------
+[24/04/2022 17:58:04] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 17:58:04] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 17:58:04] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 17:58:04] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 17:58:04] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 17:58:04] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 17:58:04] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 17:58:04] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 17:58:04] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 17:58:04] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 17:58:04] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 17:58:04] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 17:58:04] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 17:58:04] Commande chargée : vocal (./commands/divers/vocal.js)
+--------------------------------------------------------------------
+[24/04/2022 17:58:45] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 17:58:45] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 17:58:45] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 17:58:45] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 17:58:45] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 17:58:45] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 17:58:45] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 17:58:45] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 17:58:45] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 17:58:45] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 17:58:45] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 17:58:45] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 17:58:45] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 17:58:45] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 17:58:46] Bot identifié en tant que @RemsBot#7582 !
+--------------------------------------------------------------------
+[24/04/2022 18:11:46] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 18:11:47] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 18:11:47] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 18:11:47] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 18:11:47] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 18:11:47] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 18:11:47] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 18:11:47] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 18:11:47] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 18:11:47] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 18:11:47] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 18:11:47] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 18:11:47] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 18:11:47] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 18:11:48] Bot identifié en tant que @RemsBot#7582 !
+--------------------------------------------------------------------
+[24/04/2022 18:19:32] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 18:19:32] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 18:19:32] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 18:19:32] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 18:19:32] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 18:19:32] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 18:19:32] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 18:19:32] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 18:19:32] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 18:19:32] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 18:19:32] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 18:19:32] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 18:19:32] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 18:19:32] Commande chargée : vocal (./commands/divers/vocal.js)
+--------------------------------------------------------------------
+[24/04/2022 18:22:50] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 18:22:51] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 18:22:51] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 18:22:51] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 18:22:51] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 18:22:51] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 18:22:51] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 18:22:51] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 18:22:51] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 18:22:51] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 18:22:51] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 18:22:51] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 18:22:51] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 18:22:51] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 18:22:53] Bot identifié en tant que @RemsBot#7582 !
+--------------------------------------------------------------------
+[24/04/2022 18:23:04] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 18:23:05] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 18:23:05] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 18:23:05] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 18:23:05] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 18:23:05] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 18:23:05] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 18:23:05] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 18:23:05] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 18:23:05] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 18:23:05] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 18:23:05] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 18:23:05] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 18:23:05] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 18:23:06] Bot identifié en tant que @RemsBot#7582 !
+--------------------------------------------------------------------
+[24/04/2022 18:31:09] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 18:31:09] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 18:31:09] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 18:31:09] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 18:31:09] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 18:31:09] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 18:31:09] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 18:31:09] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 18:31:09] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 18:31:09] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 18:31:09] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 18:31:09] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 18:31:09] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 18:31:09] Commande chargée : vocal (./commands/divers/vocal.js)
+--------------------------------------------------------------------
+[24/04/2022 18:32:19] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 18:32:19] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 18:32:19] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 18:32:19] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 18:32:19] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 18:32:19] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 18:32:19] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 18:32:19] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 18:32:19] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 18:32:19] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 18:32:19] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 18:32:19] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 18:32:19] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 18:32:19] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 18:32:22] Bot identifié en tant que @RemsBot#7582 !
+--------------------------------------------------------------------
+[24/04/2022 18:34:49] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 18:34:49] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 18:34:49] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 18:34:49] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 18:34:49] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 18:34:49] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 18:34:49] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 18:34:49] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 18:34:49] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 18:34:49] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 18:34:49] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 18:34:49] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 18:34:49] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 18:34:49] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 18:34:50] Bot identifié en tant que @RemsBot#7582 !
+--------------------------------------------------------------------
+[24/04/2022 18:35:29] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 18:35:30] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 18:35:30] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 18:35:30] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 18:35:30] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 18:35:30] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 18:35:30] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 18:35:30] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 18:35:30] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 18:35:30] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 18:35:30] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 18:35:30] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 18:35:30] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 18:35:30] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 18:35:31] Bot identifié en tant que @RemsBot#7582 !
+--------------------------------------------------------------------
+[24/04/2022 18:37:43] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 18:37:43] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 18:37:43] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 18:37:43] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 18:37:43] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 18:37:43] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 18:37:43] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 18:37:43] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 18:37:43] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 18:37:43] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 18:37:43] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 18:37:43] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 18:37:43] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 18:37:43] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 18:37:45] Bot identifié en tant que @RemsBot#7582 !
+--------------------------------------------------------------------
+[24/04/2022 18:39:09] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 18:39:09] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 18:39:09] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 18:39:09] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 18:39:09] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 18:39:09] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 18:39:09] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 18:39:09] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 18:39:09] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 18:39:09] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 18:39:09] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 18:39:09] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 18:39:09] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 18:39:09] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 18:39:11] Bot identifié en tant que @RemsBot#7582 !
+--------------------------------------------------------------------
+[24/04/2022 18:44:20] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 18:44:20] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 18:44:20] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 18:44:20] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 18:44:20] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 18:44:20] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 18:44:20] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 18:44:20] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 18:44:20] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 18:44:20] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 18:44:20] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 18:44:20] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 18:44:20] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 18:44:20] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 18:44:22] Bot identifié en tant que @RemsBot#7582 !
+--------------------------------------------------------------------
+[24/04/2022 18:44:40] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 18:44:41] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 18:44:41] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 18:44:41] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 18:44:41] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 18:44:41] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 18:44:41] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 18:44:41] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 18:44:41] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 18:44:41] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 18:44:41] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 18:44:41] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 18:44:41] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 18:44:41] Commande chargée : vocal (./commands/divers/vocal.js)
+--------------------------------------------------------------------
+[24/04/2022 18:44:43] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 18:44:44] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 18:44:44] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 18:44:44] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 18:44:44] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 18:44:44] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 18:44:44] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 18:44:44] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 18:44:44] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 18:44:44] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 18:44:44] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 18:44:44] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 18:44:44] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 18:44:44] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 18:44:53] Bot identifié en tant que @RemsBot#7582 !
+--------------------------------------------------------------------
+[24/04/2022 18:45:26] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 18:45:26] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 18:45:26] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 18:45:26] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 18:45:26] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 18:45:26] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 18:45:26] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 18:45:26] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 18:45:26] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 18:45:26] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 18:45:26] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 18:45:26] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 18:45:26] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 18:45:26] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 18:45:28] Bot identifié en tant que @RemsBot#7582 !
+--------------------------------------------------------------------
+[24/04/2022 18:45:39] Commande chargée : clear (./commands/admin/clear.js)
+[24/04/2022 18:45:39] Commande chargée : event (./commands/admin/event.js)
+[24/04/2022 18:45:39] Commande chargée : mute (./commands/admin/mute.js)
+[24/04/2022 18:45:39] Commande chargée : prefix (./commands/admin/prefix.js)
+[24/04/2022 18:45:39] Commande chargée : sondage (./commands/admin/sondage.js)
+[24/04/2022 18:45:39] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[24/04/2022 18:45:39] Commande chargée : unmute (./commands/admin/unmute.js)
+[24/04/2022 18:45:39] Commande chargée : help (./commands/divers/help.js)
+[24/04/2022 18:45:39] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[24/04/2022 18:45:39] Commande chargée : link (./commands/divers/link.js)
+[24/04/2022 18:45:39] Commande chargée : note (./commands/divers/note.js)
+[24/04/2022 18:45:39] Commande chargée : ping (./commands/divers/ping.js)
+[24/04/2022 18:45:39] Commande chargée : repeat (./commands/divers/repeat.js)
+[24/04/2022 18:45:39] Commande chargée : vocal (./commands/divers/vocal.js)
+[24/04/2022 18:45:40] Bot identifié en tant que @RemsBot#7582 !

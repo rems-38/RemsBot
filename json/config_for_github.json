@@ -1,0 +1,21 @@
+{
+    "bot_token" : "le_token_de_votre_bot_ici",
+    "ownerId" : "446023888493740053",
+    "serverId" : "490817604919885827",
+    "member_channel_id" : "793099966222565377",
+    "link_channel_id" : "675715240427782154",
+    "sanction_channel_id" : "517022456947539995",
+    "event_potm_channel_id" : "872743205098106890",
+    "beatbattle_channel_id" : "824700609378385920",
+    "rapconcept_channel_id" : "829287367080149073",
+    "collab_category_id" : "835479772107636746",
+    "everyone_role_id" : "490817604919885827",
+    "member_role_id" : "715987509091237979",
+    "admins_role_id" : "648948495063187517",
+    "gerantdisc_role_id" : "648611925663678495",
+    "fonda_role_id" : "490817880041193475",
+    "juge_role_id" : "800374979711336508",
+    "prefix" : "?",
+    "beatbattle_mail" : "votre_mail@gmail.com",
+    "beatbattle_passwd" : "mot_de_passe_d'application_gmail"
+}
