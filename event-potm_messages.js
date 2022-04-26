@@ -5,7 +5,7 @@ const json_event = require('./json/event-potm.json');
 module.exports = (client, logger) => {
     const guild = client.guilds.cache.get(config.serverId);
 
-    client.on('message', msg => {
+    client.on('messageCreate', msg => {
         if(msg.channel.id === config.event_potm_channel_id) {
             if(!msg.author.bot){
                 if(msg.author.id !== config.ownerId) {

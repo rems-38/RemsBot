@@ -4,7 +4,7 @@ module.exports = (client, logger) => {
     const guild = client.guilds.cache.get(config.serverId);
     const sanction_channel = guild.channels.cache.get(config.sanction_channel_id);
 
-    client.on('message', msg => {
+    client.on('messageCreate', msg => {
         if(msg.channel.id === config.link_channel_id){
             if(!msg.author.bot) {
                 if(msg.author.id !== config.ownerId) {

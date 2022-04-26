@@ -101,13 +101,14 @@ module.exports.run = (client, cmd, args) => {
                 },
             };
 
-            const buttonUnderEmbed = new Discord.MessageButton()
-            .setCustomId('primary')
-            .setLabel('Test')
-            .setStyle('PRIMARY');
+            // const buttonUnderEmbed = new Discord.MessageButton()
+            // .setCustomId('primary')
+            // .setLabel('Test')
+            // .setStyle('PRIMARY');
 
-            channel.send(new Discord.MessageEmbed(PotMEmbed));
-            channel.send({components: [buttonUnderEmbed]});
+            // channel.send(new Discord.MessageEmbed(PotMEmbed));
+            // channel.send({ embeds: MessageEmbed(PotMEmbed), components: [buttonUnderEmbed] });
+            channel.send({ embeds: [new MessageEmbed(PotMEmbed)] });
 
             logger.write(`[${date.toLocaleDateString()} ${date.toTimeString().split(' ')[0]}] Event PotM : Start par @${cmd.author.tag}\n`);
             console.log(`[${date.toLocaleDateString()} ${date.toTimeString().split(' ')[0]}] Event PotM : Start par @${cmd.author.tag}`);
