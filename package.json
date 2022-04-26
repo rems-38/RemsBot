@@ -4,7 +4,7 @@
   "description": "Bot pour le serveur YouTube de Rem's 38",
   "main": "bot.js",
   "dependencies": {
-    "discord.js": "^12.5.1",
+    "discord.js": "^13.6.0",
     "fs": "^0.0.1-security",
     "inbox": "^1.1.59"
   },

@@ -50,14 +50,65 @@ module.exports.run = (client, cmd, args) => {
         const juge_role = guild.roles.cache.find(rl => rl.id === config.juge_role_id);
 
         if(args[1] == 'start'){
-            channel.updateOverwrite(member_role, {
-                VIEW_CHANNEL: true
-            });
-            channel.updateOverwrite(juge_role, {
-                VIEW_CHANNEL: false
-            });
+            // channel.updateOverwrite(member_role, {
+            //     VIEW_CHANNEL: true,
+            //     SEND_MESSAGES: false
+            // });
 
-            cmd.reply('Event PotM started !')
+            // Gestion du temps
+            if(!args[2]) return cmd.reply('Veuillez préciser le temps de l\'event');
+
+            if(args[2].indexOf('s') != -1) {
+                timeLeft = [0, 0, 0, args[2].split('s')[0]];
+            }
+            else if(args[2].indexOf('m') != -1) {
+                timeLeft = [0, 0, args[2].split('m')[0], 0];
+            }
+            else if(args[2].indexOf('h') != -1) {
+                timeLeft = [0, args[2].split('h')[0], 0, 0];
+            }
+            else if(args[2].indexOf('d') != -1) {
+                timeLeft = [args[2].split('d')[0], 0, 0, 0];
+            }
+            else timeLeft = [0, 0, 0, 0];
+
+            months = ["Janvier", "Février", "Mars", "Avril", "Mai", "Juin", "Juillet", "Août", "Septembre", "Octobre", "Novembre", "Décembre"];;
+
+            const PotMEmbed = {
+                color: "#FFFFFF",
+                title: 'Event Prod Of The Month',
+                description: `Et c'est parti, on lance notre event mensuel Prod Of The Month pour ce mois de ${months[date.getMonth()]}!`,
+                // image: {
+                //     url: cmd.attachments.first().url,
+                // },
+                fields: [
+                    {
+                        name: 'Récompense :',
+                        value: `Le grade ${guild.roles.cache.find(r => r.id == config['1stbeatmaker_role_id'])} (ce grade sera conservé pendant 1 mois par le vainqueur)`,
+                    },
+                    {
+                        name: 'Temps restant :',
+                        value: `${timeLeft[0]}d ${timeLeft[1]}h ${timeLeft[2]}m ${timeLeft[3]}s`,
+                    },
+                    {
+                        name: 'Participants (0) :',
+                        value: 'Aucun participant à afficher',
+                    }
+                ],
+                timestamp: new Date(),
+                footer: {
+                    text: 'Bonne chance à tous !',
+                },
+            };
+
+            const buttonUnderEmbed = new Discord.MessageButton()
+            .setCustomId('primary')
+            .setLabel('Test')
+            .setStyle('PRIMARY');
+
+            channel.send(new Discord.MessageEmbed(PotMEmbed));
+            channel.send({components: [buttonUnderEmbed]});
+
             logger.write(`[${date.toLocaleDateString()} ${date.toTimeString().split(' ')[0]}] Event PotM : Start par @${cmd.author.tag}\n`);
             console.log(`[${date.toLocaleDateString()} ${date.toTimeString().split(' ')[0]}] Event PotM : Start par @${cmd.author.tag}`);
 
