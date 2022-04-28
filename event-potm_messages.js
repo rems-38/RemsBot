@@ -28,7 +28,7 @@ module.exports = (client, logger) => {
                                     }
                                 }
 
-                                fs.writeFile('./json/event-potm.json', JSON.stringify(json_event), e => {if(e) console.log(e)});
+                                fs.writeFile('./json/event-potm.json', JSON.stringify(json_event, null, 4), e => {if(e) console.log(e)});
 
                                 const date = new Date();
                                 logger.write(`[${date.toLocaleDateString()} ${date.toTimeString().split(' ')[0]}] Event PotM : @${msg.author.tag} a envoyé une prod\n`);

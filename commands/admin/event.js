@@ -2,7 +2,7 @@ const { MessageActionRow, MessageButton } = require('discord.js');
 const config = require('../../json/config.json');
 const fs = require('fs');
 var logger = fs.createWriteStream('./logs.txt', {flags : 'a'})
-const json_event = require('../../json/event-potm.json');
+var json_event = require('../../json/event-potm.json');
 
 // const inbox = require('inbox');
 
@@ -70,6 +70,25 @@ module.exports.run = (client, cmd, args) => {
                 timeLeft = [args[2].split('d')[0], 0, 0, 0];
             }
             else timeLeft = [0, 0, 0, 0];
+            
+            // Creation du JSON
+            const jsonDate = `${date.getMonth() + 1}-${date.getFullYear()}`;
+            let corps = {
+                winner: null,
+                beatmakers: [
+                    // {
+                    //     name: null,
+                    //     id: null,
+                    //     url_prod: null,
+                    //     note: null,
+                    //     id_juge: null,
+                    //     comment: null,
+                    //     rank: null
+                    // }
+                ]
+            };
+            json_event[jsonDate] = corps;
+            fs.writeFileSync("./json/event-potm.json", JSON.stringify(json_event, null, 4), e => {if(e) console.log(e)});
 
             const months = ["Janvier", "Février", "Mars", "Avril", "Mai", "Juin", "Juillet", "Août", "Septembre", "Octobre", "Novembre", "Décembre"];;
 
@@ -78,7 +97,7 @@ module.exports.run = (client, cmd, args) => {
             const PotMEmbed = {
                 color: "#FFFFFF",
                 title: 'Event Prod Of The Month',
-                description: `Et c'est parti, on lance notre event mensuel Prod Of The Month pour ce mois de ${months[new Date.getMonth()]}!\nToutes les infos sont sur le flyer présent ci-dessous.\nLe fonctionnement `,
+                description: `Et c'est parti, on lance notre event mensuel Prod Of The Month pour ce mois de ${months[date.getMonth()]}!\nToutes les infos sont sur le flyer présent ci-dessous.\nLe fonctionnement `,
                 // image: {
                 //     url: cmd.attachments.first().url,
                 // },
@@ -151,42 +170,6 @@ module.exports.run = (client, cmd, args) => {
                     msg.edit({ embeds: [PotMEmbed] });
                 }, 1000 * second);
             });
-
-            client.on('interactionCreate', interaction => {
-                if(interaction.isButton()) {
-                    if(interaction.customId == "post_prod") {
-                        const channel = guild.channels.cache.find(ch => ch.id == interaction.channelId);
-                        const member = guild.members.cache.find(mb => mb.id == interaction.user.id);
-
-                        interaction.reply(`<@${member.id}>, veuillez déposer votre prod`);
-
-                        channel.permissionOverwrites.edit(member, {
-                            SEND_MESSAGES: true,
-                            ATTACH_FILES: true,
-                        });
-
-                        client.on('messageCreate', msg => {
-                            if((msg.author.id == member.id) && (msg.channel.id == channel.id) && msg.attachments) {
-                                if(msg.attachments.toJSON()[0].contentType.indexOf('audio') != -1) {
-                                    const prodUrl = msg.attachments.toJSON()[0].url;
-                                    
-                                    const prods_channel = guild.channels.cache.find(ch => ch.id == config.prods_potm_channel_id);
-                                    prods_channel.send({ content: `Voici la prod de <@${member.id}>`, files: [prodUrl] });
-
-                                    channel.permissionOverwrites.edit(member, {
-                                        SEND_MESSAGES: false,
-                                        ATTACH_FILES: false,
-                                    });
-
-                                    beatmakerID.push(`<@${member.id}>`);
-                                    channel.bulkDelete(1, true);
-                                    interaction.deleteReply();
-                                }
-                            }
-                        });
-                    }
-                };
-            })
 
             // logger.write(`[${date.toLocaleDateString()} ${date.toTimeString().split(' ')[0]}] Event PotM : Start par @${cmd.author.tag}\n`);
             // console.log(`[${date.toLocaleDateString()} ${date.toTimeString().split(' ')[0]}] Event PotM : Start par @${cmd.author.tag}`);

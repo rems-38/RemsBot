@@ -68,7 +68,7 @@ module.exports.run = (client, cmd, args) => {
 
         notes_recap[member_helper.id][0].moyenne = average;
 
-        fs.writeFile("./json/helper.json", JSON.stringify(notes_recap), e => {if(e) console.log(e)});
+        fs.writeFile("./json/helper.json", JSON.stringify(notes_recap, null, 4), e => {if(e) console.log(e)});
 
         cmd.react("✅");
 

@@ -12,7 +12,7 @@ module.exports.run = (client, cmd, args) => {
             if (!args[1]) return cmd.reply('Vous devez entrer un nouveau prefix !');
 
             config.prefix = args[1];
-            fs.writeFile("./json/config.json", JSON.stringify(config), e => {if(e) console.log(e)});
+            fs.writeFile("./json/config.json", JSON.stringify(config, null, 4), e => {if(e) console.log(e)});
             cmd.react("✅");
         
         } else return cmd.reply('Erreur lors de l\'exécution de cette commande');

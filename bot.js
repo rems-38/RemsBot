@@ -31,6 +31,7 @@ const config = require('./json/config.json');
 const memberCounter = require('./member_counter.js');
 const linkMessage = require('./link_messages.js');
 const eventPotmMessage = require('./event-potm_messages.js');
+const interactions = require('./interactions.js');
 var logger = fs.createWriteStream('./logs.txt', {flags : 'a'});
 
 logger.write('--------------------------------------------------------------------\n');
@@ -58,6 +59,8 @@ client.on('ready', () => {
     memberCounter(client, logger);
     linkMessage(client, logger);
     eventPotmMessage(client, logger);
+    interactions(client, logger);
+    
     client.user.setActivity('Rem\'s 38 sur YouTube', {type: 'WATCHING'}); //WATCHING, LISTENING, STREAMING, PLAYING
 });
 
