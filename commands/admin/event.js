@@ -81,11 +81,20 @@ module.exports.run = (client, cmd, args) => {
                     //     id: null,
                     //     url_prod: null,
                     //     note: null,
-                    //     id_juge: null,
                     //     comment: null,
-                    //     rank: null
+                    //     id_juge: null,
+                    //     rank: null,
+                    //     id_juge_embed: null,
+                    //     id_prod_msg: null,
                     // }
-                ]
+                ],
+                notes: [
+                    // {
+                    //     id: null,
+                    //     note: null,
+                    // }
+                ], 
+                id_main_embed : null,
             };
             json_event[jsonDate] = corps;
             fs.writeFileSync("./json/event-potm.json", JSON.stringify(json_event, null, 4), e => {if(e) console.log(e)});
@@ -125,10 +134,13 @@ module.exports.run = (client, cmd, args) => {
                 new MessageButton()
                 .setCustomId('post_prod')
                 .setLabel('Déposer ma prod')
-                .setStyle('PRIMARY'),
+                .setStyle('PRIMARY')
             );
 
             channel.send({ embeds: [PotMEmbed], components: [buttonUnderEmbed] }).then(msg => {
+                json_event[jsonDate].id_main_embed = msg.id;
+                fs.writeFileSync("./json/event-potm.json", JSON.stringify(json_event, null, 4), e => {if(e) console.log(e)});
+                
                 interval = setInterval(() => {
                     if(timeLeft[3] > 0) {
                         timeLeft[3] -= second;
@@ -152,22 +164,37 @@ module.exports.run = (client, cmd, args) => {
                                     timeLeft[3] = 60 - second;
                                 }
                                 else if(timeLeft[0] == 0) {
-                                    channel.send('Le temps est écoulé !');
                                     clearInterval(interval);
+                                    
+                                    PotMEmbed.title = 'Event Prod Of The Month (terminé)';
+                                    buttonUnderEmbed.components[0].disabled = true;
                                 }
                             }
                         }
                     }
 
                     var len = 0;
-                    beatmakerID.forEach(beatmaker => {len += 1});
+                    json_event[jsonDate].beatmakers.forEach(beatmaker => {
+                        beatmakerID.push(`<@${beatmaker.id}>`);
+                        len += 1;
+                    })
 
                     PotMEmbed.fields[1].value = `${timeLeft[0]}d ${timeLeft[1]}h ${timeLeft[2]}m ${timeLeft[3]}s`;
                     PotMEmbed.fields[2].name = `Participants (${len}) :`;
                     if(len == 0) PotMEmbed.fields[2].value = 'Aucun participant à afficher'
-                    else PotMEmbed.fields[2].value = beatmakerID.join(' ');
+                    else {
+                        // Dégeulasse mais sinon le PotMEmbed.fields[2].value = beatmakerID.join(' '); faisait un append
+                        beatmakerID.forEach(beatmaker => {
+                            if(PotMEmbed.fields[2].value == 'Aucun participant à afficher' && PotMEmbed.fields[2].value.indexOf(beatmaker) == -1) {
+                                PotMEmbed.fields[2].value = beatmaker;
+                            }
+                            else if(PotMEmbed.fields[2].value != 'Aucun participant à afficher' && PotMEmbed.fields[2].value.indexOf(beatmaker) == -1) {
+                                PotMEmbed.fields[2].value += beatmaker
+                            }
+                        });
+                    };
 
-                    msg.edit({ embeds: [PotMEmbed] });
+                    msg.edit({ embeds: [PotMEmbed], components: [buttonUnderEmbed] });
                 }, 1000 * second);
             });
 
@@ -175,31 +202,124 @@ module.exports.run = (client, cmd, args) => {
             // console.log(`[${date.toLocaleDateString()} ${date.toTimeString().split(' ')[0]}] Event PotM : Start par @${cmd.author.tag}`);
 
         }
-        // else if(args[1] == "next") {
-        //     channel.updateOverwrite(member_role, {
-        //         VIEW_CHANNEL: false
-        //     });
-        //     channel.updateOverwrite(juge_role, {
-        //         VIEW_CHANNEL: true
-        //     });
 
-        //     cmd.reply('Event PotM go to next part !')
-        //     logger.write(`[${date.toLocaleDateString()} ${date.toTimeString().split(' ')[0]}] Event PotM : Next par @${cmd.author.tag}\n`);
-        //     console.log(`[${date.toLocaleDateString()} ${date.toTimeString().split(' ')[0]}] Event PotM : Next par @${cmd.author.tag}`);
-        // }
-        // else if(args[1] == "stop"){
-        //     channel.updateOverwrite(member_role, {
-        //         VIEW_CHANNEL: false
-        //     });
-        //     channel.updateOverwrite(juge_role, {
-        //         VIEW_CHANNEL: false
-        //     });
+        else if(args[1] == 'reload') {
+            const jsonDate = `${date.getMonth() + 1}-${date.getFullYear()}`;
 
-        //     cmd.reply('Event PotM stopped !')
-        //     logger.write(`[${date.toLocaleDateString()} ${date.toTimeString().split(' ')[0]}] Event PotM : Stop par @${cmd.author.tag}\n`);
-        //     console.log(`[${date.toLocaleDateString()} ${date.toTimeString().split(' ')[0]}] Event PotM : Stop par @${cmd.author.tag}`);
+            channel.messages.fetch(json_event[jsonDate].id_main_embed).then(msg => {
+                var PotMEmbed = msg.embeds[0];
+                var button = msg.components[0];
 
-        // }
+                const time = PotMEmbed.fields[1].value;
+                const timeLeft = [time.split('d')[0], time.split('d ')[1].split('h')[0], time.split('h ')[1].split('m')[0], time.split('m ')[1].split('s')[0]];
+
+                button.components[0].disabled = false;
+                PotMEmbed.title = 'Event Prod Of The Month';
+                
+                interval = setInterval(() => {
+                    if(timeLeft[3] > 0) {
+                        timeLeft[3] -= second;
+                    }
+                    else if(timeLeft[3] == 0) {
+                        if(timeLeft[2] > 0) {
+                            timeLeft[2] -= 1;
+                            timeLeft[3] = 60 - second;
+                        }
+                        else if(timeLeft[2] == 0) {
+                            if(timeLeft[1] > 0) {
+                                timeLeft[1] -= 1;
+                                timeLeft[2] = 59;
+                                timeLeft[3] = 60 - second;
+                            }
+                            else if(timeLeft[1] == 0) {
+                                if(timeLeft[0] > 0) {
+                                    timeLeft[0] -= 1;
+                                    timeLeft[1] = 23;
+                                    timeLeft[2] = 59;
+                                    timeLeft[3] = 60 - second;
+                                }
+                                else if(timeLeft[0] == 0) {
+                                    clearInterval(interval);
+
+                                    PotMEmbed.title = 'Event Prod Of The Month (terminé)';
+                                    button.components[0].disabled = true;
+                                }
+                            }
+                        }
+                    }
+
+                    var len = 0;
+                    json_event[jsonDate].beatmakers.forEach(beatmaker => {
+                        beatmakerID.push(`<@${beatmaker.id}>`);
+                        len += 1;
+                    })
+
+                    PotMEmbed.fields[1].value = `${timeLeft[0]}d ${timeLeft[1]}h ${timeLeft[2]}m ${timeLeft[3]}s`;
+                    PotMEmbed.fields[2].name = `Participants (${len}) :`;
+                    if(len == 0) PotMEmbed.fields[2].value = 'Aucun participant à afficher'
+                    else {
+                        // Dégeulasse mais sinon le PotMEmbed.fields[2].value = beatmakerID.join(' '); faisait un append
+                        beatmakerID.forEach(beatmaker => {
+                            if(PotMEmbed.fields[2].value == 'Aucun participant à afficher' && PotMEmbed.fields[2].value.indexOf(beatmaker) == -1) {
+                                PotMEmbed.fields[2].value = beatmaker;
+                            }
+                            else if(PotMEmbed.fields[2].value != 'Aucun participant à afficher' && PotMEmbed.fields[2].value.indexOf(beatmaker) == -1) {
+                                PotMEmbed.fields[2].value += beatmaker
+                            }
+                        });
+                    };
+
+                    msg.edit({ embeds: [PotMEmbed], components: [button]});
+                }, 1000 * second);
+            });
+        }
+
+        else if(args[1] == 'settime') {
+            if(!args[2]) cmd.reply('Veuillez préciser le temps à remettre');
+
+            const jsonDate = `${date.getMonth() + 1}-${date.getFullYear()}`;
+
+            channel.messages.fetch(json_event[jsonDate].id_main_embed).then(msg => {
+                var PotMEmbed = msg.embeds[0];
+
+                const timeLeft = [args[2].split('d')[0], args[2].split('d')[1].split('h')[0], args[2].split('h')[1].split('m')[0], args[2].split('m')[1].split('s')[0]];
+                PotMEmbed.fields[1].value = `${timeLeft[0]}d ${timeLeft[1]}h ${timeLeft[2]}m ${timeLeft[3]}s`;
+
+                msg.edit({ embeds: [PotMEmbed] });
+            });
+        }
+
+        else if(args[1] == 'stop') {
+            const jsonDate = `${date.getMonth() + 1}-${date.getFullYear()}`;
+
+            channel.messages.fetch(json_event[jsonDate].id_main_embed).then(msg => {
+                var PotMEmbed = msg.embeds[0];
+                var button = msg.components[0];
+
+                PotMEmbed.title = 'Event Prod Of The Month (terminé)';
+                PotMEmbed.fields[1].value = '0d 0h 0m 0s';
+                button.components[0].disabled = true;
+
+                msg.edit({ embeds: [PotMEmbed], components: [button] });
+            });
+        }
+
+        else if(args[1] == 'scoreboard') {
+            // faire tous les calculs de rank pour rapport à json_event[jsonDate].notes
+            // remplir json_event[jsonDate].winner
+
+            const scoreEmbed = {
+                color: '#FFFFFF',
+                title: 'Scoreboard Prod Of The Month',
+                description: 'Voici les résultats de l\'event qui vient de se terminer !\nVous avez ici un petit apercu des 5 premiers mais pour si vous n\'êtes pas dans la tête de liste ou que vous souhaitez voir également vos commentaires, je vous invite à cliquer sur le bouton ci-dessous qui vous redirigera vers une page internet qui contient vos résultats (il suffit juste de s\'identifier avec votre compte Discord pour accéder à vos résultats)'
+            }
+
+            const linkButton = new MessageActionRow().addComponents(
+                new MessageButton()
+                .setStyle('LINK')
+            )
+        }
+
         else cmd.reply('Action inattendue, veuillez réessayer et si le problème persiste, contacter un administrateur');
 
     } 
