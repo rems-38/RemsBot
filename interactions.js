@@ -1,4 +1,4 @@
-const { MessageActionRow, MessageButton, ApplicationCommandPermissionsManager } = require('discord.js');
+const { MessageActionRow, MessageButton } = require('discord.js');
 const fs = require('fs');
 const config = require('./json/config.json');
 var json_event = require('./json/event-potm.json');
@@ -19,7 +19,7 @@ module.exports = (client, logger) => {
 
                 potm_channel.messages.fetch(json_event[jsonDate].id_main_embed).then(msg => {
                     var buttonUnderEmbed = msg.components[0];
-                    buttonUnderEmbed.disabled = true;
+                    buttonUnderEmbed.components[0].disabled = true;
 
                     msg.edit({components: [buttonUnderEmbed]})
                 })
@@ -30,7 +30,7 @@ module.exports = (client, logger) => {
                 });
 
                 client.on('messageCreate', msg => {
-                    if((msg.author.id == member.id) && (msg.channel.id == potm_channel.id) && msg.attachments) {
+                    if((msg.author.id == member.id) && (msg.channel.id == potm_channel.id) && msg.attachments.size != 0) {
                         if(msg.attachments.toJSON()[0].contentType.indexOf('audio') != -1) {
                             const prodUrl = msg.attachments.toJSON()[0].url;
                             const prods_channel = guild.channels.cache.find(ch => ch.id == config.prods_potm_channel_id);
@@ -98,15 +98,17 @@ module.exports = (client, logger) => {
                                 ATTACH_FILES: false,
                             });
 
-                            potm_channel.bulkDelete(1, true);
-                            interaction.deleteReply();
+                            setTimeout(() => {
+                                potm_channel.bulkDelete(1, true);
+                                interaction.deleteReply();
 
-                            potm_channel.messages.fetch(json_event[jsonDate].id_main_embed).then(msg => {
-                                var buttonUnderEmbed = msg.components[0];
-                                buttonUnderEmbed.components[0].disabled = false;
-
-                                msg.edit({components: [buttonUnderEmbed]})
-                            })
+                                potm_channel.messages.fetch(json_event[jsonDate].id_main_embed).then(msg => {
+                                    var buttonUnderEmbed = msg.components[0];
+                                    buttonUnderEmbed.components[0].disabled = false;
+    
+                                    msg.edit({components: [buttonUnderEmbed]})
+                                });
+                            }, 1000 * 5);
                         }
                     }
                 });
@@ -196,20 +198,29 @@ module.exports = (client, logger) => {
                                         msg.edit({ embeds: [prodEmbed], components: [prodButton]});
                                         
                                         json_event[jsonDate].beatmakers[i].note_tot = (parseFloat(beatmaker.notes[0].note) + parseFloat(beatmaker.notes[1].note)) / 2;
-                                        json_event[jsonDate].notes = {
+                                        const beatmakerNote = {
                                             id: (beatmaker.id),
                                             note: (beatmaker.note_tot),
                                         };
+                                        json_event[jsonDate].notes.push(beatmakerNote);
 
                                         fs.writeFileSync('./json/event-potm.json', JSON.stringify(json_event, null, 4), e => {if(e) console.log(e)});
                                     }
                                     else {
-                                        prodButton.components[0].disabled = false;
-                                        msg.edit({ embeds: [prodEmbed], components: [prodButton]})
+                                        setTimeout(() => {
+                                            prodButton.components[0].disabled = false;
+                                            msg.edit({ embeds: [prodEmbed], components: [prodButton]});
+                                        }, 1000 * 5);
                                     }
+
+                                    prods_channel.permissionOverwrites.edit(juge, {
+                                        SEND_MESSAGES: false,
+                                    });
                                 
-                                    prods_channel.bulkDelete(1, true);
-                                    interaction.deleteReply();
+                                    setTimeout(() => {
+                                        prods_channel.bulkDelete(1, true);
+                                        interaction.deleteReply();
+                                    }, 1000 * 5);
                                 });
                             }
                         });

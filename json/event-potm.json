@@ -1,1 +1,61 @@
-{}
+{
+    "3-2022": {
+        "winner_id": "446023888493740053"
+    },
+    "4-2022": {
+        "winner_id": "450947682228240384",
+        "beatmakers": [
+            {
+                "name": "RemTest",
+                "id": "450947682228240384",
+                "url_prod": "https://cdn.discordapp.com/attachments/872743205098106890/969898686987509801/looop_trumpet_2.mp3",
+                "nbr_de_note": 2,
+                "notes": [
+                    {
+                        "note": "18",
+                        "id_juge": "446023888493740053"
+                    },
+                    {
+                        "note": "17",
+                        "id_juge": "450947682228240384"
+                    }
+                ],
+                "note_tot": 17.5,
+                "rank": 1,
+                "id_juge_embed": "969898687981576232",
+                "id_prod_msg": "969898694570831922"
+            },
+            {
+                "name": "Rem's 38",
+                "id": "446023888493740053",
+                "url_prod": "https://cdn.discordapp.com/attachments/872743205098106890/969898742121652224/looop_trumpet.mp3",
+                "nbr_de_note": 2,
+                "notes": [
+                    {
+                        "note": "10",
+                        "id_juge": "450947682228240384"
+                    },
+                    {
+                        "note": "9",
+                        "id_juge": "446023888493740053"
+                    }
+                ],
+                "note_tot": 9.5,
+                "rank": 2,
+                "id_juge_embed": "969898743056961537",
+                "id_prod_msg": "969898750229245973"
+            }
+        ],
+        "notes": [
+            {
+                "id": "450947682228240384",
+                "note": 17.5
+            },
+            {
+                "id": "446023888493740053",
+                "note": 9.5
+            }
+        ],
+        "id_main_embed": "969898659363840000"
+    }
+}

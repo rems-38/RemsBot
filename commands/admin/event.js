@@ -74,28 +74,40 @@ module.exports.run = (client, cmd, args) => {
             // Creation du JSON
             const jsonDate = `${date.getMonth() + 1}-${date.getFullYear()}`;
             let corps = {
-                winner: null,
+                winner_id: null,
                 beatmakers: [
                     // {
                     //     name: null,
                     //     id: null,
                     //     url_prod: null,
-                    //     note: null,
-                    //     comment: null,
-                    //     id_juge: null,
+                    //     nbr_de_note: 0,
+                    //     notes: [
+                    //         {  
+                    //             note: null,
+                    //             comment: null,
+                    //             id_juge: null,
+                    //         },
+                    //         {  
+                    //             note: null,
+                    //             comment: null,
+                    //             id_juge: null,
+                    //         }
+                    //     ],
+                    //     note_tot: null,
                     //     rank: null,
                     //     id_juge_embed: null,
                     //     id_prod_msg: null,
                     // }
                 ],
                 notes: [
-                    // {
-                    //     id: null,
-                    //     note: null,
-                    // }
-                ], 
+                //     // {
+                //     //     id: null,
+                //     //     note: null,
+                //     // }
+                ],
                 id_main_embed : null,
             };
+            
             json_event[jsonDate] = corps;
             fs.writeFileSync("./json/event-potm.json", JSON.stringify(json_event, null, 4), e => {if(e) console.log(e)});
 
@@ -113,7 +125,7 @@ module.exports.run = (client, cmd, args) => {
                 fields: [
                     {
                         name: 'Récompense :',
-                        value: `Le grade ${guild.roles.cache.find(r => r.id == config['1stbeatmaker_role_id'])} (ce grade sera conservé pendant 1 mois par le vainqueur)`,
+                        value: `Le grade ${guild.roles.cache.find(r => r.id == config.first_beatmaker_role_id)} (ce grade sera conservé pendant 1 mois par le vainqueur)`,
                     },
                     {
                         name: 'Temps restant :',
@@ -141,7 +153,7 @@ module.exports.run = (client, cmd, args) => {
                 json_event[jsonDate].id_main_embed = msg.id;
                 fs.writeFileSync("./json/event-potm.json", JSON.stringify(json_event, null, 4), e => {if(e) console.log(e)});
                 
-                interval = setInterval(() => {
+                global.intervalStart = setInterval(() => {
                     if(timeLeft[3] > 0) {
                         timeLeft[3] -= second;
                     }
@@ -164,7 +176,7 @@ module.exports.run = (client, cmd, args) => {
                                     timeLeft[3] = 60 - second;
                                 }
                                 else if(timeLeft[0] == 0) {
-                                    clearInterval(interval);
+                                    clearInterval(intervalStart);
                                     
                                     PotMEmbed.title = 'Event Prod Of The Month (terminé)';
                                     buttonUnderEmbed.components[0].disabled = true;
@@ -194,6 +206,8 @@ module.exports.run = (client, cmd, args) => {
                         });
                     };
 
+                    var buttonUnderEmbed = msg.components[0];
+
                     msg.edit({ embeds: [PotMEmbed], components: [buttonUnderEmbed] });
                 }, 1000 * second);
             });
@@ -213,10 +227,12 @@ module.exports.run = (client, cmd, args) => {
                 const time = PotMEmbed.fields[1].value;
                 const timeLeft = [time.split('d')[0], time.split('d ')[1].split('h')[0], time.split('h ')[1].split('m')[0], time.split('m ')[1].split('s')[0]];
 
+                var beatmakerID = [];
+                
                 button.components[0].disabled = false;
                 PotMEmbed.title = 'Event Prod Of The Month';
                 
-                interval = setInterval(() => {
+                global.intervalReload = setInterval(() => {
                     if(timeLeft[3] > 0) {
                         timeLeft[3] -= second;
                     }
@@ -239,7 +255,7 @@ module.exports.run = (client, cmd, args) => {
                                     timeLeft[3] = 60 - second;
                                 }
                                 else if(timeLeft[0] == 0) {
-                                    clearInterval(interval);
+                                    clearInterval(intervalReload);
 
                                     PotMEmbed.title = 'Event Prod Of The Month (terminé)';
                                     button.components[0].disabled = true;
@@ -292,6 +308,9 @@ module.exports.run = (client, cmd, args) => {
         else if(args[1] == 'stop') {
             const jsonDate = `${date.getMonth() + 1}-${date.getFullYear()}`;
 
+            if(typeof intervalStart !== 'undefined') clearInterval(intervalStart);
+            if(typeof intervalReload !== 'undefined') clearInterval(intervalReload);
+
             channel.messages.fetch(json_event[jsonDate].id_main_embed).then(msg => {
                 var PotMEmbed = msg.embeds[0];
                 var button = msg.components[0];
@@ -300,6 +319,7 @@ module.exports.run = (client, cmd, args) => {
                 PotMEmbed.fields[1].value = '0d 0h 0m 0s';
                 button.components[0].disabled = true;
 
+                console.log("update");
                 msg.edit({ embeds: [PotMEmbed], components: [button] });
             });
         }
@@ -307,17 +327,62 @@ module.exports.run = (client, cmd, args) => {
         else if(args[1] == 'scoreboard') {
             // faire tous les calculs de rank pour rapport à json_event[jsonDate].notes
             // remplir json_event[jsonDate].winner
+            const jsonDate = `${date.getMonth() + 1}-${date.getFullYear()}`;
+
+
+            const allNotes = json_event[jsonDate].notes;
+            
+            allNotes.sort((a, b) => {
+                return b.note - a.note;
+            });
+
+            var desc = 'Voici les résultats de l\'event qui vient de se terminer !\nVous avez ici un petit apercu des 3 premiers mais pour si vous n\'êtes pas dans la tête de liste ou que vous souhaitez voir également vos commentaires, je vous invite à cliquer sur le bouton ci-dessous qui vous redirigera vers une page internet qui contient vos résultats (il suffit juste de s\'identifier avec votre compte Discord pour accéder à vos résultats)\n\nPodium :\n';
+            const rankEmoji = ['🥇', '🥈', '🥉']
+
+            allNotes.forEach((noteCouple, i) =>{
+                json_event[jsonDate].beatmakers.forEach(beatmaker => {
+                    if(beatmaker.id == noteCouple.id) {
+                        beatmaker.rank = i + 1;
+
+                        if(beatmaker.rank == 1) {
+                            json_event[jsonDate].winner_id = beatmaker.id;
+        
+                            const previousDate = `${date.getMonth()}-${date.getFullYear()}`;
+                            const previousWinner = guild.members.cache.find(mb => mb.id == json_event[previousDate].winner_id);
+                            const winnerMember = guild.members.cache.find(mb => mb.id == beatmaker.id);
+                            const winnerRole = guild.roles.cache.find(r => r.id == config.first_beatmaker_role_id);
+        
+                            previousWinner.roles.remove(winnerRole);
+                            winnerMember.roles.add(winnerRole);
+                        };
+
+                        if(i < 3) {
+                            desc += `\n${rankEmoji[i]} <@${beatmaker.id}> (${noteCouple.note}/20)\n`;
+                        };
+                    };
+
+                    fs.writeFileSync('./json/event-potm.json', JSON.stringify(json_event, null, 4), e => {if(e) console.log(e)});
+                })
+            });
 
             const scoreEmbed = {
                 color: '#FFFFFF',
                 title: 'Scoreboard Prod Of The Month',
-                description: 'Voici les résultats de l\'event qui vient de se terminer !\nVous avez ici un petit apercu des 5 premiers mais pour si vous n\'êtes pas dans la tête de liste ou que vous souhaitez voir également vos commentaires, je vous invite à cliquer sur le bouton ci-dessous qui vous redirigera vers une page internet qui contient vos résultats (il suffit juste de s\'identifier avec votre compte Discord pour accéder à vos résultats)'
+                description: desc,
+                timestamp: new Date(),
+                footer: {
+                    text: 'Merci à tous d\'avoir participé !'
+                },
             }
 
             const linkButton = new MessageActionRow().addComponents(
                 new MessageButton()
+                .setLabel('Accéder au scoreboard en ligne !')
                 .setStyle('LINK')
-            )
+                .setURL('https://google.fr')
+            );
+
+            channel.send({ embeds: [scoreEmbed], components: [linkButton] });
         }
 
         else cmd.reply('Action inattendue, veuillez réessayer et si le problème persiste, contacter un administrateur');
