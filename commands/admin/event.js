@@ -106,6 +106,7 @@ module.exports.run = (client, cmd, args) => {
                 //     // }
                 ],
                 id_main_embed : null,
+                event_en_cours: true,
             };
             
             json_event[jsonDate] = corps;
@@ -180,6 +181,9 @@ module.exports.run = (client, cmd, args) => {
                                     
                                     PotMEmbed.title = 'Event Prod Of The Month (terminé)';
                                     buttonUnderEmbed.components[0].disabled = true;
+                                    
+                                    json_event[jsonDate].event_en_cours = false;
+                                    fs.writeFileSync("./json/event-potm.json", JSON.stringify(json_event, null, 4), e => {if(e) console.log(e)});
                                 }
                             }
                         }
@@ -220,6 +224,9 @@ module.exports.run = (client, cmd, args) => {
         else if(args[1] == 'reload') {
             const jsonDate = `${date.getMonth() + 1}-${date.getFullYear()}`;
 
+            json_event[jsonDate].event_en_cours = true;
+            fs.writeFileSync("./json/event-potm.json", JSON.stringify(json_event, null, 4), e => {if(e) console.log(e)});
+
             channel.messages.fetch(json_event[jsonDate].id_main_embed).then(msg => {
                 var PotMEmbed = msg.embeds[0];
                 var button = msg.components[0];
@@ -259,6 +266,9 @@ module.exports.run = (client, cmd, args) => {
 
                                     PotMEmbed.title = 'Event Prod Of The Month (terminé)';
                                     button.components[0].disabled = true;
+
+                                    json_event[jsonDate].event_en_cours = false;
+                                    fs.writeFileSync("./json/event-potm.json", JSON.stringify(json_event, null, 4), e => {if(e) console.log(e)});
                                 }
                             }
                         }
@@ -311,6 +321,9 @@ module.exports.run = (client, cmd, args) => {
             if(typeof intervalStart !== 'undefined') clearInterval(intervalStart);
             if(typeof intervalReload !== 'undefined') clearInterval(intervalReload);
 
+            json_event[jsonDate].event_en_cours = false;
+            fs.writeFileSync("./json/event-potm.json", JSON.stringify(json_event, null, 4), e => {if(e) console.log(e)});
+
             channel.messages.fetch(json_event[jsonDate].id_main_embed).then(msg => {
                 var PotMEmbed = msg.embeds[0];
                 var button = msg.components[0];
@@ -319,7 +332,6 @@ module.exports.run = (client, cmd, args) => {
                 PotMEmbed.fields[1].value = '0d 0h 0m 0s';
                 button.components[0].disabled = true;
 
-                console.log("update");
                 msg.edit({ embeds: [PotMEmbed], components: [button] });
             });
         }

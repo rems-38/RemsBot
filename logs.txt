@@ -8729,3 +8729,49 @@ Utilisateur : @Seryxa#5550
 [01/05/2022 12:34:35] Commande ?event exécuter par @Rem's 38#3180
 [01/05/2022 12:34:41] Commande ?clear exécuter par @Rem's 38#3180
 [01/05/2022 12:34:45] Commande ?clear exécuter par @Rem's 38#3180
+--------------------------------------------------------------------
+[01/05/2022 13:39:53] Commande chargée : clear (./commands/admin/clear.js)
+[01/05/2022 13:39:53] Commande chargée : event (./commands/admin/event.js)
+[01/05/2022 13:39:53] Commande chargée : mute (./commands/admin/mute.js)
+[01/05/2022 13:39:53] Commande chargée : prefix (./commands/admin/prefix.js)
+[01/05/2022 13:39:53] Commande chargée : sondage (./commands/admin/sondage.js)
+[01/05/2022 13:39:53] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[01/05/2022 13:39:53] Commande chargée : unmute (./commands/admin/unmute.js)
+[01/05/2022 13:39:53] Commande chargée : help (./commands/divers/help.js)
+[01/05/2022 13:39:53] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[01/05/2022 13:39:53] Commande chargée : link (./commands/divers/link.js)
+[01/05/2022 13:39:53] Commande chargée : note (./commands/divers/note.js)
+[01/05/2022 13:39:53] Commande chargée : ping (./commands/divers/ping.js)
+[01/05/2022 13:39:53] Commande chargée : repeat (./commands/divers/repeat.js)
+[01/05/2022 13:39:53] Commande chargée : vocal (./commands/divers/vocal.js)
+[01/05/2022 13:39:54] Bot identifié en tant que @RemsBot#7582 !
+[01/05/2022 13:39:54] Web Server started and listening on port 3000
+[01/05/2022 13:40:11] Commande ?event exécuter par @Rem's 38#3180
+[01/05/2022 13:40:36] Commande ?event exécuter par @Rem's 38#3180
+[01/05/2022 13:41:04] Commande ?event exécuter par @Rem's 38#3180
+[01/05/2022 13:41:19] Commande ?event exécuter par @Rem's 38#3180
+[01/05/2022 13:41:23] Commande ?event exécuter par @Rem's 38#3180
+[01/05/2022 13:42:52] Commande ?event exécuter par @Rem's 38#3180
+[01/05/2022 13:43:04] Commande ?clear exécuter par @Rem's 38#3180
+[01/05/2022 13:43:09] Commande ?clear exécuter par @Rem's 38#3180
+--------------------------------------------------------------------
+[01/05/2022 13:43:24] Commande chargée : clear (./commands/admin/clear.js)
+[01/05/2022 13:43:24] Commande chargée : event (./commands/admin/event.js)
+[01/05/2022 13:43:24] Commande chargée : mute (./commands/admin/mute.js)
+[01/05/2022 13:43:24] Commande chargée : prefix (./commands/admin/prefix.js)
+[01/05/2022 13:43:24] Commande chargée : sondage (./commands/admin/sondage.js)
+[01/05/2022 13:43:24] Commande chargée : tempmute (./commands/admin/tempmute.js)
+[01/05/2022 13:43:24] Commande chargée : unmute (./commands/admin/unmute.js)
+[01/05/2022 13:43:24] Commande chargée : help (./commands/divers/help.js)
+[01/05/2022 13:43:24] Commande chargée : helperinfo (./commands/divers/helperinfo.js)
+[01/05/2022 13:43:24] Commande chargée : link (./commands/divers/link.js)
+[01/05/2022 13:43:24] Commande chargée : note (./commands/divers/note.js)
+[01/05/2022 13:43:24] Commande chargée : ping (./commands/divers/ping.js)
+[01/05/2022 13:43:24] Commande chargée : repeat (./commands/divers/repeat.js)
+[01/05/2022 13:43:24] Commande chargée : vocal (./commands/divers/vocal.js)
+[01/05/2022 13:43:26] Bot identifié en tant que @RemsBot#7582 !
+[01/05/2022 13:43:26] Web Server started and listening on port 3000
+[01/05/2022 13:43:41] Commande ?event exécuter par @Rem's 38#3180
+[01/05/2022 13:43:56] Commande ?event exécuter par @Rem's 38#3180
+[01/05/2022 13:44:03] Commande ?clear exécuter par @Rem's 38#3180
+[01/05/2022 13:44:09] Commande ?clear exécuter par @Rem's 38#3180
