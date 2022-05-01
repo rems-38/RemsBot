@@ -385,6 +385,56 @@ module.exports.run = (client, cmd, args) => {
             channel.send({ embeds: [scoreEmbed], components: [linkButton] });
         }
 
+        else if(args[1] == "jugereload") {
+            delete require.cache[__dirname.slice(0, __dirname.length - 15) + "\\json\\event-potm.json"];
+            const json_event = require('../../json/event-potm.json');
+
+            if(!args[2]) return cmd.reply("Entrez le nom du beatmaker concerné");
+            const beatmakerID = args[2].split('<@')[1].split('>')[0];
+            const prods_channel = guild.channels.cache.find(ch => ch.id == config.prods_potm_channel_id);
+            
+            const jsonDate = `${date.getMonth() + 1}-${date.getFullYear()}`;
+
+            json_event[jsonDate].beatmakers.forEach(beatmaker => {
+                if(beatmaker.id == beatmakerID) {
+                    prods_channel.messages.fetch(beatmaker.id_juge_embed).then(msg => {
+                        var prodButton = msg.components[0];
+                        var prodEmbed = msg.embeds[0];
+
+                        if(beatmaker.nbr_de_note == 0) {
+                            prodEmbed.color = '#FF0000';
+                            prodEmbed.title = 'Nouvelle prod à juger (0/2)';
+                            prodEmbed.fields[1].value = 'Pas noté pour l\'instant';
+                            prodEmbed.fields[2].value = 'Pas noté pour l\'instant';
+                            prodEmbed.fields[3].value = 'Pas noté pour l\'instant';
+                            prodEmbed.fields[4].value = 'Pas noté pour l\'instant';
+                        }
+                        else if(beatmaker.nbr_de_note == 1) {
+                            prodEmbed.color = '#FF8C00';
+                            prodEmbed.title = 'Nouvelle prod à juger (1/2)';
+                            prodEmbed.fields[1].value = `<@${beatmaker.notes[0].id_juge}>`;
+                            prodEmbed.fields[2].value = `${beatmaker.notes[0].note}/20`;
+                            prodEmbed.fields[3].value = 'Pas noté pour l\'instant';
+                            prodEmbed.fields[4].value = 'Pas noté pour l\'instant';
+                        }
+                        else if(beatmaker.nbr_de_note == 2) {
+                            prodEmbed.color = '#00FF00';
+                            prodEmbed.title = 'Prod jugée (2/2)';
+                            prodEmbed.fields[1].value = `<@${beatmaker.notes[0].id_juge}>`;
+                            prodEmbed.fields[2].value = `${beatmaker.notes[0].note}/20`;
+                            prodEmbed.fields[3].value = `<@${beatmaker.notes[1].id_juge}>`;
+                            prodEmbed.fields[4].value = `${beatmaker.notes[1].note}/20`;
+                        }
+
+                        if(beatmaker.nbr_de_note == 0 || beatmaker.nbr_de_note == 1) prodButton.components[0].disabled = false
+                        else if(beatmaker.nbr_de_note == 2) prodButton.components[0].disabled = true;
+
+                        msg.edit({ embeds: [prodEmbed], components: [prodButton] });
+                    });
+                }
+            });
+        }
+
         else cmd.reply('Action inattendue, veuillez réessayer et si le problème persiste, contacter un administrateur');
 
     } 

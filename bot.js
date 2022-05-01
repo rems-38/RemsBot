@@ -28,6 +28,7 @@ client.commands = new Collection();
 
 const fs = require('fs');
 const config = require('./json/config.json');
+const express = require('express');
 const memberCounter = require('./member_counter.js');
 const linkMessage = require('./link_messages.js');
 const interactions = require('./interactions.js');
@@ -58,6 +59,19 @@ client.on('ready', () => {
     memberCounter(client, logger);
     linkMessage(client, logger);
     interactions(client, logger);
+
+    const app = express();
+
+    app.listen(3000, () => {
+        logger.write(`[${date.toLocaleDateString()} ${date.toTimeString().split(' ')[0]}] Web Server started and listening on port 3000\n`);
+        console.log(`[${date.toLocaleDateString()} ${date.toTimeString().split(' ')[0]}] Web Server started and listening on port 3000`);
+    });
+
+    app.use(express.static('./web'));
+
+    app.get('/', (req, res) => {
+        res.sendFile(__dirname + '/web/scoreboard.html');
+    });
 
     client.user.setActivity('Rem\'s 38 sur YouTube', {type: 'WATCHING'}); //WATCHING, LISTENING, STREAMING, PLAYING
 });

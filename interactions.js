@@ -45,11 +45,6 @@ module.exports = (client, logger) => {
                                         inline: true,
                                     },
                                     {
-                                        name: 'Note',
-                                        value: 'Pas noté pour l\'instant',
-                                        inline: false,
-                                    },
-                                    {
                                         name: 'Juge',
                                         value: 'Pas noté pour l\'instant',
                                         inline: true,
@@ -63,6 +58,11 @@ module.exports = (client, logger) => {
                                         name: 'Juge',
                                         value: 'Pas noté pour l\'instant',
                                         inline: true,
+                                    },
+                                    {
+                                        name: 'Note',
+                                        value: 'Pas noté pour l\'instant',
+                                        inline: false,
                                     }
                                 ]
                             };
@@ -166,13 +166,18 @@ module.exports = (client, logger) => {
                                                 inline: false,
                                             },
                                             {
+                                                name: 'Juge',
+                                                value: `<@${beatmaker.notes[0].id_juge}>`,
+                                                inline: true,
+                                            },
+                                            {
                                                 name: 'Note',
                                                 value: `${beatmaker.notes[0].note}/20`,
                                                 inline: true,
                                             },
                                             {
                                                 name: 'Juge',
-                                                value: `<@${beatmaker.notes[0].id_juge}>`,
+                                                value: beatmaker.nbr_de_note == 0 ? 'Pas noté pour l\'instant' : `<@${beatmaker.notes[1].id_juge}>`,
                                                 inline: true,
                                             },
                                             {
@@ -180,11 +185,6 @@ module.exports = (client, logger) => {
                                                 value: beatmaker.nbr_de_note == 0 ? 'Pas noté pour l\'instant' : `${beatmaker.notes[1].note}/20`,
                                                 inline: true,
                                             },
-                                            {
-                                                name: 'Juge',
-                                                value: beatmaker.nbr_de_note == 0 ? 'Pas noté pour l\'instant' : `<@${beatmaker.notes[1].id_juge}>`,
-                                                inline: true,
-                                            }
                                         ]
                                     };
 
