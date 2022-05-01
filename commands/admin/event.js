@@ -119,9 +119,9 @@ module.exports.run = (client, cmd, args) => {
                 color: "#FFFFFF",
                 title: 'Event Prod Of The Month',
                 description: `Et c'est parti, on lance notre event mensuel Prod Of The Month pour ce mois de ${months[date.getMonth()]}!\nToutes les infos sont sur le flyer présent ci-dessous.\nLe fonctionnement `,
-                // image: {
-                //     url: cmd.attachments.first().url,
-                // },
+                image: {
+                    url: cmd.attachments.first().url,
+                },
                 fields: [
                     {
                         name: 'Récompense :',
