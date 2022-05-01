@@ -8722,3 +8722,10 @@ Utilisateur : @Seryxa#5550
 [01/05/2022 12:33:25] Commande chargée : ping (./commands/divers/ping.js)
 [01/05/2022 12:33:25] Commande chargée : repeat (./commands/divers/repeat.js)
 [01/05/2022 12:33:25] Commande chargée : vocal (./commands/divers/vocal.js)
+[01/05/2022 12:33:26] Bot identifié en tant que @RemsBot#7582 !
+[01/05/2022 12:33:26] Web Server started and listening on port 3000
+[01/05/2022 12:33:49] Commande ?event exécuter par @Rem's 38#3180
+[01/05/2022 12:34:19] Commande ?event exécuter par @Rem's 38#3180
+[01/05/2022 12:34:35] Commande ?event exécuter par @Rem's 38#3180
+[01/05/2022 12:34:41] Commande ?clear exécuter par @Rem's 38#3180
+[01/05/2022 12:34:45] Commande ?clear exécuter par @Rem's 38#3180
